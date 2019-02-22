@@ -1,0 +1,118 @@
+picture	primary camera
+photo	primary camera
+photography	primary camera
+image	primary camera
+shoot	primary camera
+pic	primary camera
+snapshot	primary camera
+exposure	primary camera
+photographic	primary camera
+film	primary camera
+portrait	primary camera
+imagery	primary camera
+scene	primary camera
+collage	primary camera
+video	primary camera
+time exposure	primary camera
+digital camera	primary camera
+primary camera	primary camera
+thumbnail	primary camera
+lens	primary camera
+focus	primary camera
+portray	primary camera
+panorama	primary camera
+cameraman	primary camera
+filmmaking	primary camera
+capture	primary camera
+cinematographer	primary camera
+img	primary camera
+aperture	primary camera
+color photography	primary camera
+jpeg	primary camera
+camcording	primary camera
+pixel	primary camera
+wireless	supported network
+ieee 802.11	supported network
+wlan	supported network
+wireless lan	supported network
+wifi protected access	supported network
+internet	supported network
+3g	supported network
+wireless access point	supported network
+wi-fi	supported network
+connectivity	supported network
+bandwidth	supported network
+adapter	supported network
+tethering	supported network
+modem	supported network
+hotspot	supported network
+4g	supported network
+lte	supported network
+wirelss fidelity	supported network
+gprs	supported network
+wimax	supported network
+firewalls	supported network
+hi-fi	supported network
+802.11	supported network
+baud	supported network
+ieee 802	supported network
+internet access	supported network
+wireless network	supported network
+wireless ad hoc network	supported network
+wireless router	supported network
+network	supported network
+telephone	mobile
+smart phone	mobile
+cellular	mobile
+phone	mobile
+cellphone	mobile
+mobile phone	mobile
+phones	mobile
+cellular phone	mobile
+gsm	mobile
+cell	mobile
+touchscreen mobile	mobile
+android	operating system
+iOS	operating system
+snapdragon	processor
+intel	processor
+gigahertz	processor
+cpu	processor
+microprocessor	processor
+central processing unit	processor
+ghz	processor
+c.p.u.	processor
+hertz	processor
+operating system	processor
+x86	processor
+chip	processor
+dual-core	processor
+octa-core	processor
+freq	processor
+frequency	processor
+amd	processor
+1080p	display size
+pixel density	display size
+display	display size
+resolution	display size
+screen resolution	display size
+touch screen	display size
+scroll	display size
+16:9	display size
+display device	display size
+device display	display size
+graphic	display size
+widescreen	display size
+screenshot	display size
+high-resolution	display size
+storage	internal storage
+ROM	internal storage
+rom	internal storage
+128gb	internal storage
+64gb	internal storage
+32gb	internal storage
+internal memory	internal storage
+space	internal storage
+internal space	internal storage
+capacity	internal storage
+memory	internal storage

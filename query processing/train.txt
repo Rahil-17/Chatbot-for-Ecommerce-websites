@@ -1,0 +1,3732 @@
+redmi note 4	model
+redmi note 4 pro	model
+redmi 4	model
+redmi 4s	model
+iphone x	model
+iphone xs	model
+camera	attribute
+screen	attribute
+battery	attribute
+processor	attribute
+price	attribute
+mobile	table
+phone	table
+tv	table
+snapdragon	data
+samsung	data
+xiaomi	data
+_id	attribute
+5bb8f3056b7a3055184e0c2e	data
+model number	attribute
+v100r001 / aum-al20	data
+processor core	attribute
+octa core	data
+internet connectivity	attribute
+4g, 3g, wi-fi	data
+color	attribute
+blue	data
+warranty summary	attribute
+12 months on handset, 6 months on battery, 6 months on charger & 3 months on data cable	data
+depth	attribute
+7.8 mm	data
+hybrid sim slot	attribute
+no	data
+expandable storage	attribute
+256 gb	data
+dual camera lens	attribute
+primary camera	data
+resolution	attribute
+1440 x 720 pixels	data
+width	attribute
+73 mm	data
+operating system	attribute
+android oreo 8.0	data
+sim size	attribute
+nano sim (6-pin sim)	data
+bluetooth support	attribute
+yes	data
+supported memory card type	attribute
+microsd	data
+flash	attribute
+single-led flash and selfie toning flash	data
+audio jack	attribute
+3.5 mm	data
+ram	attribute
+3 gb	data
+sim type	attribute
+dual sim	data
+usb tethering	attribute
+yes	data
+other display features	attribute
+multiple-point touch-sensitive screen	data
+usb connectivity	attribute
+yes	data
+wi-fi	attribute
+yes	data
+bluetooth version	attribute
+4.2	data
+audio formats	attribute
+mp3, mp4, 4gp, ogg, amr, aac, flac, wav, midi	data
+sms	attribute
+yes	data
+graphics ppi	attribute
+283 ppi	data
+gps support	attribute
+yes	data
+battery capacity	attribute
+3000 mah	data
+primary camera available	attribute
+yes	data
+sound enhancements	attribute
+sws, double-microphone noise reduction	data
+display type	attribute
+gff	data
+wi-fi hotspot	attribute
+yes	data
+supported networks	attribute
+4g volte, umts, gsm, 4g lte, wcdma	data
+display colors	attribute
+16m	data
+other features	attribute
+device control - physical power key, 0/hs20, status indicator, swiftkey input method, wcdma: amr-nb, gsm/gprs: fr/efr/hr/amr-nb, e-mail - pop3/imap/exchange, image file format: png, gif, jpg, bmp, webp, wbmp, hota online update, google mobile suite - google search & search by voice, hangouts, gmail, maps, youtube, play store, feature applications - backup, file manager, weather, music, contacts import, face id (face unlock)	data
+processor type	attribute
+qualcomm snapdragon octa core	data
+otg compatible	attribute
+yes	data
+network type	attribute
+4g, 4g volte, 2g, 3g	data
+micro usb port	attribute
+yes	data
+internal storage	attribute
+32 gb	data
+secondary camera features	attribute
+fixed focus lens, photo: up to 3264x2448p, video: up to 1920x1080p	data
+sensors	attribute
+accelerometer, proximity sensor, ambient light sensor, fingerprint sensor	data
+primary camera features	attribute
+pdaf, photo: up to 4160x3120p, video: up to 1920x1080p, panorama, watermark, hdr, bokeh mode	data
+pre-installed browser	attribute
+google chrome	data
+7a	model
+wi-fi version	attribute
+802.11 b/g/n (2.4g)	data
+in the box	attribute
+handset, charger, usb cable, quick start guide, eject tool, battery protect film, tp protect film, warranty card	data
+display size	attribute
+14.48 cm (5.7 inch)	data
+smartphone	attribute
+yes	data
+mms	attribute
+yes	data
+map support	attribute
+google maps	data
+video formats	attribute
+3gp, mp4, wmv, asf	data
+primary camera	attribute
+13mp + 2mp	data
+primary clock speed	attribute
+1.4 ghz	data
+user interface	attribute
+emui 8.0	data
+secondary camera	attribute
+8.0mp	data
+resolution type	attribute
+hd+	data
+touchscreen	attribute
+yes	data
+browse type	attribute
+smartphones	data
+secondary clock speed	attribute
+1.1 ghz	data
+weight	attribute
+150 g	data
+memory card slot type	attribute
+dedicated slot	data
+secondary camera available	attribute
+yes	data
+height	attribute
+152.4 mm	data
+_id	attribute
+5bb8f2f36b7a3055184e0c25	data
+model number	attribute
+mzb6083in	data
+processor core	attribute
+octa core	data
+internet connectivity	attribute
+4g, 3g, wi-fi	data
+color	attribute
+black	data
+warranty summary	attribute
+brand warranty of 1 year available for mobile and 6 months for accessories	data
+depth	attribute
+8.05 mm	data
+hybrid sim slot	attribute
+yes	data
+dual camera lens	attribute
+primary camera	data
+resolution	attribute
+2160 x 1080 pixels	data
+height	attribute
+158.58 mm	data
+operating system	attribute
+android nougat 7.1.2	data
+sim size	attribute
+nano sim and nano sim	data
+bluetooth support	attribute
+yes	data
+supported memory card type	attribute
+microsd	data
+flash	attribute
+rear and front flash	data
+audio jack	attribute
+3.5 mm	data
+ram	attribute
+6 gb	data
+sim type	attribute
+dual sim	data
+other display features	attribute
+contrast ratio: 1000:1 (min), 2.5d glass, corning gorilla glass	data
+usb connectivity	attribute
+yes	data
+wi-fi	attribute
+yes	data
+bluetooth version	attribute
+5.0	data
+graphics ppi	attribute
+403 ppi	data
+gps support	attribute
+yes	data
+battery capacity	attribute
+4000 mah	data
+primary camera available	attribute
+yes	data
+sound enhancements	attribute
+speaker - single (bottom opening), microphones - 2 (for noise cancellation)	data
+display type	attribute
+ips (in-cell)	data
+redmi note 5 pro	model
+supported networks	attribute
+4g volte, umts, gsm, 4g lte, wcdma	data
+weight	attribute
+181 g	data
+other features	attribute
+14 nm architecture processor, internal memory - emmc v5.1, body - metal back, ir blaster, charger - 5 v x 2 a	data
+processor type	attribute
+qualcomm snapdragon 636	data
+operating frequency	attribute
+gsm - b2, b3, b5, b8, wcdma - b1, b2, b5, b8, 4g lte tdd - b40, b41 (2535 - 2655 mhz), lte fdd - b1, b3, b5	data
+otg compatible	attribute
+yes	data
+network type	attribute
+4g volte, 4g, 3g	data
+3g	attribute
+yes	data
+micro usb port	attribute
+yes	data
+internal storage	attribute
+64 gb	data
+secondary camera features	attribute
+aperture - f/2.2, 1.0 microns pixel size	data
+sensors	attribute
+fingerprint scanner, ambient light sensor, proximity sensor, e compass, accelerometer, hall sensor, gyroscope	data
+primary camera features	attribute
+primary sensor - f/2.2, 1.25 microns pixel size, 5p lens, secondary sensor - f/2.0, 1.12 microns pixel size, 4p lens, pdaf	data
+expandable storage	attribute
+128 gb	data
+gpu	attribute
+adreno 509	data
+wi-fi version	attribute
+802.11 a/b/g/n/ac	data
+in the box	attribute
+handset, power adapter, usb data cable, ultra thin case, warranty card, getting started guide, pin	data
+display size	attribute
+15.21 cm (5.99 inch)	data
+smartphone	attribute
+yes	data
+map support	attribute
+google maps	data
+width	attribute
+75.35 mm	data
+primary camera	attribute
+12mp + 5mp	data
+primary clock speed	attribute
+1.8 ghz	data
+secondary camera	attribute
+20mp	data
+resolution type	attribute
+full hd+	data
+touchscreen	attribute
+yes	data
+browse type	attribute
+smartphones	data
+memory card slot type	attribute
+hybrid slot	data
+secondary camera available	attribute
+yes	data
+_id	attribute
+5bb8f2f76b7a3055184e0c26	data
+model number	attribute
+zb601kl-4a005in / zb601kl-4a015in	data
+processor core	attribute
+octa core	data
+internet connectivity	attribute
+4g, 3g, wi-fi	data
+color	attribute
+black	data
+warranty summary	attribute
+brand warranty of 1 year available for handset and 6 months for accessories	data
+depth	attribute
+8.46 mm	data
+hybrid sim slot	attribute
+no	data
+expandable storage	attribute
+2 tb	data
+dual camera lens	attribute
+primary camera	data
+resolution	attribute
+2160 x 1080 pixels	data
+height	attribute
+159 mm	data
+secondary camera available	attribute
+yes	data
+bluetooth support	attribute
+yes	data
+supported memory card type	attribute
+microsd	data
+flash	attribute
+rear and front led flash	data
+audio jack	attribute
+yes	data
+ram	attribute
+6 gb	data
+fm radio recording	attribute
+yes	data
+sim type	attribute
+dual sim	data
+removable battery	attribute
+no	data
+usb tethering	attribute
+yes	data
+other display features	attribute
+2.5d glass, 5.99inch full view display in 5.5-inch compact size, 83.7% screen to body ratio, 2mm slim bezel, 18:9 full view, brightness in 450 nits, 1500:1 high contrast ratio, 85% ntsc color gamut	data
+usb connectivity	attribute
+yes	data
+wi-fi	attribute
+yes	data
+bluetooth version	attribute
+5	data
+battery capacity	attribute
+5000 mah	data
+wi-fi hotspot	attribute
+yes	data
+display size	attribute
+15.21 cm (5.99 inch)	data
+zenfone max pro m1	model
+supported networks	attribute
+4g volte, umts, wcdma, gsm	data
+weight	attribute
+180 g	data
+other features	attribute
+slim metal 3-section design, fingerprint sensor - 0.3 sec fast unlock, 5 finger & 360degree recognition, power-efficient 14nm processor, 10w adapter (5v/2a), 3 slot, 2 sim card, 1 microsd, stock (pure) android, face unlock, cat 4	data
+operating system	attribute
+android oreo 8.1	data
+processor type	attribute
+qualcomm snapdragon 636 octa core	data
+otg compatible	attribute
+yes	data
+network type	attribute
+4g volte, 3g, 2g	data
+micro usb port	attribute
+yes	data
+internal storage	attribute
+64 gb	data
+secondary camera features	attribute
+16mp, f/2.0, 5p lens, stock android camera - beauty modes, hdr, landscape, sports, flowers, backlight, candle light, sunset, night, beach, snow, portrait mode	data
+sensors	attribute
+rear fingerprint sensor, accelerometer sensor, e-compass, proximity sensor, ambient light sensor, gyroscope sensor	data
+primary camera features	attribute
+16mp, f/2.0, pdaf + 5mp with bokeh, f2.4, 1.12micrometer, stock android camera - beauty modes, hdr, landscape, sports, flowers, backlight, candle light, sunset, night, beach, snow.	data
+primary camera available	attribute
+yes	data
+gpu	attribute
+adreno 509	data
+wi-fi version	attribute
+802.11 b/g/n	data
+in the box	attribute
+handset, adapter, usb cable, warranty card, sim ejector, user manual, max-box, transparent back cover	data
+smartphone	attribute
+yes	data
+map support	attribute
+google maps	data
+width	attribute
+76 mm	data
+primary camera	attribute
+16mp + 5mp	data
+primary clock speed	attribute
+1.8 ghz	data
+fm radio	attribute
+yes	data
+secondary camera	attribute
+16mp	data
+sound enhancements	attribute
+5 magnet speaker, 2nd gen. nxp smart amp, max audio box, dual microphone	data
+gps support	attribute
+yes	data
+touchscreen	attribute
+yes	data
+browse type	attribute
+smartphones	data
+memory card slot type	attribute
+dedicated slot	data
+resolution type	attribute
+full hd+	data
+_id	attribute
+5bb8f2f96b7a3055184e0c27	data
+model number	attribute
+v100r001 / aum-al20	data
+processor core	attribute
+octa core	data
+internet connectivity	attribute
+4g, 3g, wi-fi	data
+color	attribute
+gold	data
+warranty summary	attribute
+12 months on handset, 6 months on battery, 6 months on charger & 3 months on data cable	data
+depth	attribute
+7.8 mm	data
+hybrid sim slot	attribute
+no	data
+expandable storage	attribute
+256 gb	data
+dual camera lens	attribute
+primary camera	data
+resolution	attribute
+1440 x 720 pixels	data
+width	attribute
+73 mm	data
+operating system	attribute
+android oreo 8.0	data
+sim size	attribute
+nano sim (6-pin sim)	data
+bluetooth support	attribute
+yes	data
+supported memory card type	attribute
+microsd	data
+flash	attribute
+single-led flash and selfie toning flash	data
+audio jack	attribute
+3.5 mm	data
+ram	attribute
+3 gb	data
+sim type	attribute
+dual sim	data
+usb tethering	attribute
+yes	data
+other display features	attribute
+multiple-point touch-sensitive screen	data
+usb connectivity	attribute
+yes	data
+wi-fi	attribute
+yes	data
+bluetooth version	attribute
+4.2	data
+audio formats	attribute
+mp3, mp4, 4gp, ogg, amr, aac, flac, wav, midi	data
+sms	attribute
+yes	data
+graphics ppi	attribute
+283 ppi	data
+gps support	attribute
+yes	data
+battery capacity	attribute
+3000 mah	data
+primary camera available	attribute
+yes	data
+sound enhancements	attribute
+sws, double-microphone noise reduction	data
+display type	attribute
+gff	data
+wi-fi hotspot	attribute
+yes	data
+supported networks	attribute
+4g volte, umts, gsm, 4g lte, wcdma	data
+display colors	attribute
+16m	data
+other features	attribute
+device control - physical power key, 0/hs20, status indicator, swiftkey input method, wcdma: amr-nb, gsm/gprs: fr/efr/hr/amr-nb, e-mail - pop3/imap/exchange, image file format: png, gif, jpg, bmp, webp, wbmp, hota online update, google mobile suite - google search & search by voice, hangouts, gmail, maps, youtube, play store, feature applications - backup, file manager, weather, music, contacts import, face id (face unlock)	data
+processor type	attribute
+qualcomm snapdragon octa core	data
+otg compatible	attribute
+yes	data
+network type	attribute
+4g, 4g volte, 2g, 3g	data
+micro usb port	attribute
+yes	data
+internal storage	attribute
+32 gb	data
+secondary camera features	attribute
+fixed focus lens, photo: up to 3264x2448p, video: up to 1920x1080p	data
+sensors	attribute
+accelerometer, proximity sensor, ambient light sensor, fingerprint sensor	data
+primary camera features	attribute
+pdaf, photo: up to 4160x3120p, video: up to 1920x1080p, panorama, watermark, hdr, bokeh mode	data
+pre-installed browser	attribute
+google chrome	data
+7a	model
+wi-fi version	attribute
+802.11 b/g/n (2.4g)	data
+in the box	attribute
+handset, charger, usb cable, quick start guide, eject tool, battery protect film, tp protect film, warranty card	data
+display size	attribute
+14.48 cm (5.7 inch)	data
+smartphone	attribute
+yes	data
+mms	attribute
+yes	data
+map support	attribute
+google maps	data
+video formats	attribute
+3gp, mp4, wmv, asf	data
+primary camera	attribute
+13mp + 2mp	data
+primary clock speed	attribute
+1.4 ghz	data
+user interface	attribute
+emui 8.0	data
+secondary camera	attribute
+8.0mp	data
+resolution type	attribute
+hd+	data
+touchscreen	attribute
+yes	data
+browse type	attribute
+smartphones	data
+secondary clock speed	attribute
+1.1 ghz	data
+weight	attribute
+150 g	data
+memory card slot type	attribute
+dedicated slot	data
+secondary camera available	attribute
+yes	data
+height	attribute
+152.4 mm	data
+_id	attribute
+5bb8f2fb6b7a3055184e0c28	data
+video recording	attribute
+yes	data
+bluetooth version	attribute
+4.2	data
+processor core	attribute
+quad core	data
+internet connectivity	attribute
+4g, 3g, wi-fi, gprs, edge	data
+color	attribute
+black	data
+wi-fi version	attribute
+802.11b/g/n 2.4g	data
+depth	attribute
+8.3 mm	data
+hybrid sim slot	attribute
+no	data
+expandable storage	attribute
+256 gb	data
+width	attribute
+70.9 mm	data
+map support	attribute
+google maps	data
+resolution	attribute
+1440 x 720 pixels	data
+wi-fi	attribute
+yes	data
+secondary camera available	attribute
+yes	data
+sim size	attribute
+dual nano sim	data
+supported memory card type	attribute
+microsd	data
+fm radio	attribute
+yes	data
+flash	attribute
+rear single led flash and front single selfie toning flash	data
+audio jack	attribute
+3.5mm	data
+ram	attribute
+2 gb	data
+sim type	attribute
+dual sim	data
+usb tethering	attribute
+yes	data
+other display features	attribute
+18:9 fullview display, multiple-point-touch-sensitive screen	data
+usb connectivity	attribute
+yes	data
+browse type	attribute
+smartphones	data
+model number	attribute
+dua-al00	data
+audio formats	attribute
+mp3, midi, amr-nb, aac, aac+, eaac+, pcm	data
+sms	attribute
+yes	data
+warranty summary	attribute
+12 months on handset, 6 months on battery, 6 months on charger & 3 months on data cable	data
+gprs	attribute
+yes	data
+battery capacity	attribute
+3020 mah	data
+primary camera available	attribute
+yes	data
+display size	attribute
+13.84 cm (5.45 inch)	data
+full hd recording	attribute
+yes	data
+edge	attribute
+yes	data
+graphics ppi	attribute
+295 ppi	data
+wi-fi hotspot	attribute
+yes	data
+gprs features	attribute
+edge class 12: 236.8 kbit/s (uplink), 236.8 kbit/s (downlink)	data
+voice input	attribute
+yes	data
+supported networks	attribute
+4g lte, wcdma, gsm	data
+display colors	attribute
+16m	data
+other features	attribute
+4g lte - fdd-lte and td-lte cat 4: 50 mbit/s (uplink cat 4), 150 mbit/s (downlink cat 4), qam - uplink 16-qam, downlink 64-qam, standard 6-pin sim card interface, three in one card bar - 2 nano sim and 1 microsd, device control - physical power key, physical volume key, wi-fi direct, certification - bis, bqb, wi-fi, rohs, reach, status indicator, input method - swiftkey input method, home screen - huawei launcher, email - pop3 / imap / exchange, image file format: png, gif, jpg, bmp, webp, wbmp, streaming media - mp4, 3gp, software update - hota online update, google search and search by voice, hangouts, gmail, youtube, play store, feature applications - backup, file manager, weather, music, fm, smart face unlock	data
+operating system	attribute
+android oreo 8.1.0	data
+processor type	attribute
+mediatek mt6739 cortex a53	data
+otg compatible	attribute
+no	data
+video recording resolution	attribute
+1080p	data
+network type	attribute
+4g, 3g, 2g	data
+3g	attribute
+yes	data
+micro usb port	attribute
+yes	data
+internal storage	attribute
+16 gb	data
+secondary camera features	attribute
+fixed focus lens, photo: upto 2592 x 1936 pixels, video: upto 1080p, 30fps, aperture - f/2.2	data
+sensors	attribute
+accelerometer, proximity sensor, ambient light sensor	data
+3g speed	attribute
+3g wcdma - hsdpa cat 24: 42 mbit/s (downlink), hsupa cat 7: 11.4 mbit/s (uplink), wcdma: 384 kbit/s (uplink), 384 kbit/s (downlink)	data
+primary camera features	attribute
+auto focus, photo: upto 4208 x 3120 pixels, video: upto 1080p, 30fps, aperture - f/2.2, panorama, hdr, timer, beauty mode	data
+pre-installed browser	attribute
+google chrome	data
+7s	model
+bluetooth support	attribute
+yes	data
+in the box	attribute
+handset, charger, micro-usb cable, quick start guide, eject tool, warranty card	data
+sim access	attribute
+dual standby	data
+smartphone	attribute
+yes	data
+mms	attribute
+yes	data
+memory card slot type	attribute
+dedicated slot	data
+video formats	attribute
+3gp, mp4, webm, mkv	data
+primary camera	attribute
+13mp	data
+primary clock speed	attribute
+1.5 ghz	data
+edge features	attribute
+40 kbit/s (uplink), 60 kbit/s (downlink)	data
+secondary camera	attribute
+5mp	data
+sound enhancements	attribute
+super louder receiver	data
+gps support	attribute
+yes	data
+touchscreen	attribute
+yes	data
+frame rate	attribute
+30 fps	data
+weight	attribute
+142 g	data
+hd recording	attribute
+yes	data
+display type	attribute
+tft	data
+height	attribute
+146.5 mm	data
+_id	attribute
+5bb8f2fd6b7a3055184e0c29	data
+user memory	attribute
+10.08	data
+model number	attribute
+p91	data
+processor core	attribute
+quad core	data
+internet connectivity	attribute
+4g, 3g, wi-fi	data
+color	attribute
+blue	data
+warranty summary	attribute
+brand warranty of 1 year available for mobile and 6 months for accessories	data
+depth	attribute
+10.1 mm	data
+hybrid sim slot	attribute
+no	data
+sensors	attribute
+accelerometer, proximity sensor, ambient light sensor	data
+resolution	attribute
+480 x 854 pixels	data
+width	attribute
+72.4 mm	data
+operating system	attribute
+android nougat 7	data
+sim size	attribute
+micro sim and micro sim	data
+bluetooth support	attribute
+yes	data
+supported memory card type	attribute
+microsd	data
+flash	attribute
+rear flash	data
+audio jack	attribute
+3.5mm	data
+ram	attribute
+1 gb	data
+sim type	attribute
+dual sim	data
+removable battery	attribute
+yes	data
+other display features	attribute
+display protection - agc ii, brightness - 380 nits, capacitive display	data
+usb connectivity	attribute
+yes	data
+wi-fi	attribute
+yes	data
+bluetooth version	attribute
+4.0	data
+audio formats	attribute
+aac, aac+, aac+ enhanced, ogg vorbis, wav, mp3, midi	data
+gprs	attribute
+yes	data
+gps support	attribute
+yes	data
+battery capacity	attribute
+2500 mah	data
+primary camera available	attribute
+yes	data
+sound enhancements	attribute
+single speaker	data
+display type	attribute
+ips	data
+p91	model
+supported networks	attribute
+4g volte, 4g lte, gsm, umts	data
+weight	attribute
+161 g	data
+other features	attribute
+wi-fi direct, supported frequency band 2.4 ghz	data
+processor type	attribute
+mt6737m	data
+operating frequency	attribute
+gsm - 850/900/1800/1900, umts - 900/2100, lte fdd: 1/3/5 tdd:40	data
+otg compatible	attribute
+yes	data
+network type	attribute
+4g volte, 3g, 2g	data
+3g	attribute
+yes	data
+internal storage	attribute
+16 gb	data
+secondary camera features	attribute
+ppi - 2592 x 1944 pixels, format - jpg, panaroma, mode - beaut/hdr, fixed focus, cdaf, 3p lens, f/2.4, 1.12 micrometer x 1.12 micrometer, 4x digital zoom, 82degree fov, 30.1 cra (degree), video recording: format mp4, 720p, 30fps	data
+3g speed	attribute
+hspa+	data
+primary camera features	attribute
+ppi - 3264 x 2448 pixels, format - jpg, panaroma, mode - beaut/hdr, auto focus, cdaf, 4p lens, f/2.0, 1.12 micrometer x 1.12 micrometer, 4x digital zoom, 78degree fov, 32.55 cra (degree), video recording: format mp4, 720p, 30fps	data
+expandable storage	attribute
+64 gb	data
+gpu	attribute
+arm mali-t720 mp1 at 550mhz	data
+wi-fi version	attribute
+802.11 b/g/n	data
+in the box	attribute
+handset, battery, charger, usb cable, protective screen guard, quick start guide, earphones, warranty card	data
+display size	attribute
+12.7 cm (5 inch)	data
+smartphone	attribute
+yes	data
+map support	attribute
+google maps	data
+video formats	attribute
+h.263, h.264, mpeg4	data
+primary camera	attribute
+8mp	data
+primary clock speed	attribute
+1.1 ghz	data
+fm radio	attribute
+yes	data
+secondary camera	attribute
+5mp	data
+resolution type	attribute
+fwvga	data
+touchscreen	attribute
+yes	data
+browse type	attribute
+smartphones	data
+memory card slot type	attribute
+dedicated slot	data
+secondary camera available	attribute
+yes	data
+height	attribute
+144.7 mm	data
+_id	attribute
+5bb8f2fe6b7a3055184e0c2a	data
+model number	attribute
+mzb6647in	data
+processor core	attribute
+octa core	data
+internet connectivity	attribute
+4g, 3g, wi-fi	data
+color	attribute
+steel blue	data
+warranty summary	attribute
+brand warranty of 1 year available for mobile and 6 months for accessories	data
+depth	attribute
+8.8 mm	data
+hybrid sim slot	attribute
+yes	data
+expandable storage	attribute
+256 gb	data
+dual camera lens	attribute
+primary camera	data
+resolution	attribute
+2160 x 1080 pixels	data
+height	attribute
+155.5 mm	data
+secondary camera available	attribute
+yes	data
+sim size	attribute
+nano sim and nano sim	data
+bluetooth support	attribute
+yes	data
+supported memory card type	attribute
+microsd	data
+ram	attribute
+6 gb	data
+sim type	attribute
+dual sim	data
+removable battery	attribute
+no	data
+other display features	attribute
+18.7:9 notch display	data
+wi-fi	attribute
+yes	data
+bluetooth version	attribute
+5.0	data
+graphics ppi	attribute
+403 ppi	data
+battery capacity	attribute
+4000 mah	data
+wi-fi hotspot	attribute
+yes	data
+display size	attribute
+15.7 cm (6.18 inch)	data
+display type	attribute
+ips	data
+supported networks	attribute
+4g volte, 4g lte, gsm	data
+weight	attribute
+180 g	data
+other features	attribute
+10 nm architecture processor, battery power rating - 9v/2a	data
+operating system	attribute
+android oreo 8.1	data
+processor type	attribute
+qualcomm snapdragon 845	data
+otg compatible	attribute
+yes	data
+network type	attribute
+4g volte, 3g, 2g	data
+3g	attribute
+yes	data
+internal storage	attribute
+128 gb	data
+secondary camera features	attribute
+ir front camera with f/2.0 aperture	data
+sensors	attribute
+gyroscope, proximity, accelerometer, ambient light sensor	data
+primary camera features	attribute
+dual rear camera with primary 6p lens and secondary 4p lens, f/1.9 primary aperture and f/2.0 secondary aperture, dual rear camera with 6-element primary lens and 4-element secondary lens	data
+primary camera available	attribute
+yes	data
+f1	model
+wi-fi version	attribute
+801.11b/g/n/ac	data
+in the box	attribute
+handset, adapter, usb cable, warranty card, user guide, sim insertion tool, back case	data
+smartphone	attribute
+yes	data
+video call support	attribute
+yes	data
+map support	attribute
+google maps	data
+width	attribute
+75.3 mm	data
+primary camera	attribute
+12mp + 5mp	data
+primary clock speed	attribute
+2.8 ghz	data
+fm radio	attribute
+yes	data
+secondary camera	attribute
+20mp	data
+resolution type	attribute
+fhd+	data
+touchscreen	attribute
+yes	data
+browse type	attribute
+smartphones	data
+memory card slot type	attribute
+hybrid slot	data
+gps support	attribute
+yes	data
+_id	attribute
+5bb8f3006b7a3055184e0c2b	data
+model number	attribute
+mzb6079in / mzb6087in	data
+processor core	attribute
+octa core	data
+internet connectivity	attribute
+4g, 3g, wi-fi	data
+color	attribute
+black	data
+warranty summary	attribute
+brand warranty of 1 year available for mobile and 6 months for accessories	data
+depth	attribute
+8.05 mm	data
+hybrid sim slot	attribute
+yes	data
+dual camera lens	attribute
+primary camera	data
+resolution	attribute
+2160 x 1080 pixels	data
+height	attribute
+158.58 mm	data
+operating system	attribute
+android nougat 7.1.2	data
+sim size	attribute
+nano sim and nano sim	data
+bluetooth support	attribute
+yes	data
+supported memory card type	attribute
+microsd	data
+flash	attribute
+rear and front flash	data
+audio jack	attribute
+3.5 mm	data
+ram	attribute
+4 gb	data
+sim type	attribute
+dual sim	data
+other display features	attribute
+contrast ratio: 1000:1 (min), 2.5d glass, corning gorilla glass	data
+usb connectivity	attribute
+yes	data
+wi-fi	attribute
+yes	data
+bluetooth version	attribute
+5	data
+graphics ppi	attribute
+403 ppi	data
+gps support	attribute
+yes	data
+battery capacity	attribute
+4000 mah	data
+primary camera available	attribute
+yes	data
+sound enhancements	attribute
+speaker - single (bottom opening), microphones - 2 (for noise cancellation)	data
+display type	attribute
+ips (in-cell)	data
+redmi note 5 pro	model
+supported networks	attribute
+4g volte, umts, gsm, 4g lte, wcdma	data
+weight	attribute
+181 g	data
+other features	attribute
+14 nm architecture processor, internal memory - emmc v5.1, body - metal back, ir blaster, charger - 5 v x 2 a	data
+processor type	attribute
+qualcomm snapdragon 636	data
+operating frequency	attribute
+gsm - b2, b3, b5, b8, wcdma - b1, b2, b5, b8, 4g lte tdd - b40, b41 (2535 - 2655 mhz), lte fdd - b1, b3, b5	data
+otg compatible	attribute
+yes	data
+network type	attribute
+4g volte, 4g, 3g	data
+3g	attribute
+yes	data
+micro usb port	attribute
+yes	data
+internal storage	attribute
+64 gb	data
+secondary camera features	attribute
+aperture - f/2.2, 1.0 microns pixel size	data
+sensors	attribute
+fingerprint scanner, ambient light sensor, proximity sensor, e compass, accelerometer, hall sensor, gyroscope	data
+primary camera features	attribute
+primary sensor - f/2.2, 1.25 microns pixel size, 5p lens, secondary sensor - f/2.0, 1.12 microns pixel size, 4p lens, pdaf	data
+expandable storage	attribute
+128 gb	data
+gpu	attribute
+adreno 509	data
+wi-fi version	attribute
+802.11 a/b/g/n/ac	data
+in the box	attribute
+handset, power adapter, usb data cable, ultra thin case, warranty card, getting started guide, pin	data
+display size	attribute
+15.21 cm (5.99 inch)	data
+smartphone	attribute
+yes	data
+map support	attribute
+google maps	data
+width	attribute
+75.35 mm	data
+primary camera	attribute
+12mp + 5mp	data
+primary clock speed	attribute
+1.8 ghz	data
+secondary camera	attribute
+20mp	data
+resolution type	attribute
+full hd+	data
+touchscreen	attribute
+yes	data
+browse type	attribute
+smartphones	data
+memory card slot type	attribute
+hybrid slot	data
+secondary camera available	attribute
+yes	data
+_id	attribute
+5bb8f3026b7a3055184e0c2c	data
+model number	attribute
+mzb6634in	data
+processor core	attribute
+octa core	data
+internet connectivity	attribute
+4g, 3g, wi-fi	data
+color	attribute
+red	data
+warranty summary	attribute
+brand warranty of 1 year available for mobile and 6 months for accessories	data
+depth	attribute
+8.05 mm	data
+hybrid sim slot	attribute
+yes	data
+dual camera lens	attribute
+primary camera	data
+resolution	attribute
+2160 x 1080 pixels	data
+height	attribute
+158.58 mm	data
+operating system	attribute
+android nougat 7.1.2	data
+sim size	attribute
+nano sim and nano sim	data
+bluetooth support	attribute
+yes	data
+supported memory card type	attribute
+microsd	data
+flash	attribute
+rear and front flash	data
+audio jack	attribute
+3.5 mm	data
+ram	attribute
+4 gb	data
+sim type	attribute
+dual sim	data
+other display features	attribute
+contrast ratio: 1000:1 (min), 2.5d glass, corning gorilla glass	data
+usb connectivity	attribute
+yes	data
+wi-fi	attribute
+yes	data
+bluetooth version	attribute
+5	data
+graphics ppi	attribute
+403 ppi	data
+gps support	attribute
+yes	data
+battery capacity	attribute
+4000 mah	data
+primary camera available	attribute
+yes	data
+sound enhancements	attribute
+speaker - single (bottom opening), microphones - 2 (for noise cancellation)	data
+display type	attribute
+ips (in-cell)	data
+redmi note 5 pro	model
+supported networks	attribute
+4g volte, umts, gsm, 4g lte, wcdma	data
+weight	attribute
+181 g	data
+other features	attribute
+14 nm architecture processor, internal memory - emmc v5.1, body - metal back, ir blaster, charger - 5 v x 2 a	data
+processor type	attribute
+qualcomm snapdragon 636	data
+operating frequency	attribute
+gsm - b2, b3, b5, b8, wcdma - b1, b2, b5, b8, 4g lte tdd - b40, b41 (2535 - 2655 mhz), lte fdd - b1, b3, b5	data
+otg compatible	attribute
+yes	data
+network type	attribute
+4g volte, 4g, 3g	data
+3g	attribute
+yes	data
+micro usb port	attribute
+yes	data
+internal storage	attribute
+64 gb	data
+secondary camera features	attribute
+aperture - f/2.2, 1.0 microns pixel size	data
+sensors	attribute
+fingerprint scanner, ambient light sensor, proximity sensor, e compass, accelerometer, hall sensor, gyroscope	data
+primary camera features	attribute
+primary sensor - f/2.2, 1.25 microns pixel size, 5p lens, secondary sensor - f/2.0, 1.12 microns pixel size, 4p lens, pdaf	data
+expandable storage	attribute
+128 gb	data
+gpu	attribute
+adreno 509	data
+wi-fi version	attribute
+802.11 a/b/g/n/ac	data
+in the box	attribute
+handset, power adapter, usb data cable, ultra thin case, warranty card, getting started guide, pin	data
+display size	attribute
+15.21 cm (5.99 inch)	data
+smartphone	attribute
+yes	data
+map support	attribute
+google maps	data
+width	attribute
+75.35 mm	data
+primary camera	attribute
+12mp + 5mp	data
+primary clock speed	attribute
+1.8 ghz	data
+secondary camera	attribute
+20mp	data
+resolution type	attribute
+full hd+	data
+touchscreen	attribute
+yes	data
+browse type	attribute
+smartphones	data
+memory card slot type	attribute
+hybrid slot	data
+secondary camera available	attribute
+yes	data
+_id	attribute
+5bb8f3036b7a3055184e0c2d	data
+video recording	attribute
+yes	data
+processor core	attribute
+octa core	data
+internet connectivity	attribute
+4g, 3g, wi-fi, edge	data
+color	attribute
+black	data
+warranty summary	attribute
+brand warranty of 1 year available for mobile and 6 months for accessories	data
+depth	attribute
+8.98 mm	data
+hybrid sim slot	attribute
+no	data
+dual camera lens	attribute
+primary camera	data
+resolution	attribute
+1080 x 2246 pixels	data
+wi-fi	attribute
+yes	data
+operating system	attribute
+android oreo 8.1	data
+sim size	attribute
+dual nano sim	data
+supported memory card type	attribute
+microsd	data
+flash	attribute
+rear color correlated temperature (cct) dual led flash and front single flash	data
+ram	attribute
+4 gb	data
+sim type	attribute
+dual sim	data
+map support	attribute
+google maps	data
+removable battery	attribute
+no	data
+other display features	attribute
+corning gorilla glass	data
+usb connectivity	attribute
+yes	data
+browse type	attribute
+smartphones	data
+bluetooth version	attribute
+5.0	data
+graphics ppi	attribute
+403 ppi	data
+gps support	attribute
+yes	data
+battery capacity	attribute
+5000 mah	data
+primary camera available	attribute
+yes	data
+sound enhancements	attribute
+dolby audio, bottom-ported speaker, 2 mics	data
+display type	attribute
+ltps ips	data
+edge	attribute
+yes	data
+moto one power	model
+wi-fi hotspot	attribute
+yes	data
+upgradable operating system	attribute
+android p	data
+supported networks	attribute
+4g lte, umts, gsm	data
+wi-fi version	attribute
+802.11a/b/g/n/ac (2.4 ghz + 5 ghz)	data
+other features	attribute
+15w turbopower for upto 6 hours of power in 15 minutes, 4g lte (cat 6), usb type-c port with turbo charge support, water protection - p2i	data
+full hd recording	attribute
+yes	data
+processor type	attribute
+qualcomm snapdragon 636	data
+otg compatible	attribute
+yes	data
+video recording resolution	attribute
+2160p	data
+network type	attribute
+4g, 3g, 2g	data
+3g	attribute
+yes	data
+internal storage	attribute
+64 gb	data
+secondary camera features	attribute
+f2.0, 1.25 micrometer	data
+sensors	attribute
+fingerprint reader, proximity sensor, accelerometer, ambient light sensor, magnetometer, gyroscope, e-compass	data
+3g speed	attribute
+hspa+	data
+primary camera features	attribute
+16mp - pdaf (f1.8, 1.12 micrometer), 5mp - f2.2, 1.0 micrometer	data
+quick charging	attribute
+yes	data
+expandable storage	attribute
+256 gb	data
+gpu	attribute
+430 mhz adreno 509	data
+bluetooth support	attribute
+yes	data
+in the box	attribute
+handset, travel charger (15w), sim ejector tool, user manual	data
+display size	attribute
+15.75 cm (6.2 inch)	data
+smartphone	attribute
+yes	data
+memory card slot type	attribute
+dedicated slot	data
+width	attribute
+76 mm	data
+primary camera	attribute
+16mp + 5mp	data
+primary clock speed	attribute
+1.8 ghz	data
+fm radio	attribute
+yes	data
+secondary camera	attribute
+12mp	data
+resolution type	attribute
+fhd+	data
+touchscreen	attribute
+yes	data
+frame rate	attribute
+uhd at 30fps, fhd at 30fps, fhd at 60fps, vga at 30 fps	data
+weight	attribute
+205 g	data
+hd recording	attribute
+yes	data
+secondary camera available	attribute
+yes	data
+height	attribute
+156 mm	data
+_id	attribute
+5bb8f5f06b7a3056106e9c47	data
+depth	attribute
+8.05 mm	data
+dual camera lens	attribute
+primary camera	data
+processor core	attribute
+octa core	data
+otg compatible	attribute
+yes	data
+battery capacity	attribute
+4000 mah	data
+in the box	attribute
+handset, power adapter, usb data cable, ultra thin case, warranty card, getting started guide, pin	data
+internal storage	attribute
+64 gb	data
+weight	attribute
+181 g	data
+touchscreen	attribute
+yes	data
+processor type	attribute
+qualcomm snapdragon 636	data
+secondary camera	attribute
+20mp	data
+map support	attribute
+google maps	data
+usb connectivity	attribute
+yes	data
+gpu	attribute
+adreno 509	data
+warranty summary	attribute
+brand warranty of 1 year available for mobile and 6 months for accessories	data
+operating system	attribute
+android nougat 7.1.2	data
+ram	attribute
+6 gb	data
+bluetooth support	attribute
+yes	data
+expandable storage	attribute
+128 gb	data
+audio jack	attribute
+3.5 mm	data
+primary camera available	attribute
+yes	data
+primary camera features	attribute
+primary sensor - f/2.2, 1.25 microns pixel size, 5p lens, secondary sensor - f/2.0, 1.12 microns pixel size, 4p lens, pdaf	data
+wi-fi version	attribute
+802.11 a/b/g/n/ac	data
+supported memory card type	attribute
+microsd	data
+height	attribute
+158.58 mm	data
+color	attribute
+black	data
+supported networks	attribute
+4g volte, umts, gsm, 4g lte, wcdma	data
+resolution	attribute
+2160 x 1080 pixels	data
+sim type	attribute
+dual sim	data
+graphics ppi	attribute
+403 ppi	data
+3g	attribute
+yes	data
+other display features	attribute
+contrast ratio: 1000:1 (min), 2.5d glass, corning gorilla glass	data
+flash	attribute
+rear and front flash	data
+browse type	attribute
+smartphones	data
+bluetooth version	attribute
+5.0	data
+hybrid sim slot	attribute
+yes	data
+sensors	attribute
+fingerprint scanner, ambient light sensor, proximity sensor, e compass, accelerometer, hall sensor, gyroscope	data
+micro usb port	attribute
+yes	data
+secondary camera available	attribute
+yes	data
+width	attribute
+75.35 mm	data
+resolution type	attribute
+full hd+	data
+wi-fi	attribute
+yes	data
+model number	attribute
+mzb6083in	data
+sim size	attribute
+nano sim and nano sim	data
+internet connectivity	attribute
+4g, 3g, wi-fi	data
+operating frequency	attribute
+gsm - b2, b3, b5, b8, wcdma - b1, b2, b5, b8, 4g lte tdd - b40, b41 (2535 - 2655 mhz), lte fdd - b1, b3, b5	data
+secondary camera features	attribute
+aperture - f/2.2, 1.0 microns pixel size	data
+display type	attribute
+ips (in-cell)	data
+sound enhancements	attribute
+speaker - single (bottom opening), microphones - 2 (for noise cancellation)	data
+gps support	attribute
+yes	data
+network type	attribute
+4g volte, 4g, 3g	data
+display size	attribute
+15.21 cm (5.99 inch)	data
+other features	attribute
+14 nm architecture processor, internal memory - emmc v5.1, body - metal back, ir blaster, charger - 5 v x 2 a	data
+primary camera	attribute
+12mp + 5mp	data
+redmi note 5 pro	model
+smartphone	attribute
+yes	data
+primary clock speed	attribute
+1.8 ghz	data
+memory card slot type	attribute
+hybrid slot	data
+_id	attribute
+5bb8f5f46b7a3056106e9c48	data
+depth	attribute
+8.46 mm	data
+dual camera lens	attribute
+primary camera	data
+processor core	attribute
+octa core	data
+otg compatible	attribute
+yes	data
+battery capacity	attribute
+5000 mah	data
+in the box	attribute
+handset, adapter, usb cable, warranty card, sim ejector, user manual, max-box, transparent back cover	data
+internal storage	attribute
+64 gb	data
+weight	attribute
+180 g	data
+touchscreen	attribute
+yes	data
+wi-fi hotspot	attribute
+yes	data
+processor type	attribute
+qualcomm snapdragon 636 octa core	data
+secondary camera	attribute
+16mp	data
+map support	attribute
+google maps	data
+usb connectivity	attribute
+yes	data
+gpu	attribute
+adreno 509	data
+warranty summary	attribute
+brand warranty of 1 year available for handset and 6 months for accessories	data
+operating system	attribute
+android oreo 8.1	data
+usb tethering	attribute
+yes	data
+ram	attribute
+6 gb	data
+bluetooth support	attribute
+yes	data
+fm radio	attribute
+yes	data
+zenfone max pro m1	model
+audio jack	attribute
+yes	data
+primary camera available	attribute
+yes	data
+primary camera features	attribute
+16mp, f/2.0, pdaf + 5mp with bokeh, f2.4, 1.12micrometer, stock android camera - beauty modes, hdr, landscape, sports, flowers, backlight, candle light, sunset, night, beach, snow.	data
+wi-fi version	attribute
+802.11 b/g/n	data
+supported memory card type	attribute
+microsd	data
+height	attribute
+159 mm	data
+color	attribute
+black	data
+supported networks	attribute
+4g volte, umts, wcdma, gsm	data
+resolution	attribute
+2160 x 1080 pixels	data
+sim type	attribute
+dual sim	data
+other display features	attribute
+2.5d glass, 5.99inch full view display in 5.5-inch compact size, 83.7% screen to body ratio, 2mm slim bezel, 18:9 full view, brightness in 450 nits, 1500:1 high contrast ratio, 85% ntsc color gamut	data
+flash	attribute
+rear and front led flash	data
+browse type	attribute
+smartphones	data
+bluetooth version	attribute
+5	data
+hybrid sim slot	attribute
+no	data
+sensors	attribute
+rear fingerprint sensor, accelerometer sensor, e-compass, proximity sensor, ambient light sensor, gyroscope sensor	data
+micro usb port	attribute
+yes	data
+secondary camera available	attribute
+yes	data
+width	attribute
+76 mm	data
+resolution type	attribute
+full hd+	data
+removable battery	attribute
+no	data
+wi-fi	attribute
+yes	data
+model number	attribute
+zb601kl-4a005in / zb601kl-4a015in	data
+internet connectivity	attribute
+4g, 3g, wi-fi	data
+fm radio recording	attribute
+yes	data
+secondary camera features	attribute
+16mp, f/2.0, 5p lens, stock android camera - beauty modes, hdr, landscape, sports, flowers, backlight, candle light, sunset, night, beach, snow, portrait mode	data
+expandable storage	attribute
+2 tb	data
+sound enhancements	attribute
+5 magnet speaker, 2nd gen. nxp smart amp, max audio box, dual microphone	data
+gps support	attribute
+yes	data
+network type	attribute
+4g volte, 3g, 2g	data
+display size	attribute
+15.21 cm (5.99 inch)	data
+other features	attribute
+slim metal 3-section design, fingerprint sensor - 0.3 sec fast unlock, 5 finger & 360degree recognition, power-efficient 14nm processor, 10w adapter (5v/2a), 3 slot, 2 sim card, 1 microsd, stock (pure) android, face unlock, cat 4	data
+primary camera	attribute
+16mp + 5mp	data
+smartphone	attribute
+yes	data
+primary clock speed	attribute
+1.8 ghz	data
+memory card slot type	attribute
+dedicated slot	data
+_id	attribute
+5bb8f5f76b7a3056106e9c49	data
+depth	attribute
+8.46 mm	data
+dual camera lens	attribute
+primary camera	data
+processor core	attribute
+octa core	data
+otg compatible	attribute
+yes	data
+battery capacity	attribute
+5000 mah	data
+in the box	attribute
+handset, charger, user manual, warranty card, max-box, sim ejector	data
+internal storage	attribute
+32 gb	data
+weight	attribute
+180 g	data
+touchscreen	attribute
+yes	data
+processor type	attribute
+qualcomm snapdragon 636 octa core	data
+secondary camera	attribute
+8mp	data
+gpu	attribute
+adreno 509	data
+warranty summary	attribute
+brand warranty of 1 year available for handset and 6 months for accessories	data
+operating system	attribute
+android oreo 8.1	data
+ram	attribute
+3 gb	data
+bluetooth support	attribute
+yes	data
+smartphone	attribute
+yes	data
+primary camera available	attribute
+yes	data
+primary camera features	attribute
+13mp, f/2.2, pdaf + 5mp with bokeh, camera modes - 10 effects beauty modes, hdr, landscape, sports, flowers, backlight, candle light, sunset, night, beach, snow	data
+wi-fi version	attribute
+802.11 b/g/n	data
+supported memory card type	attribute
+microsd	data
+height	attribute
+159 mm	data
+color	attribute
+black	data
+supported networks	attribute
+4g volte, gsm, 4g lte, wcdma	data
+resolution	attribute
+2160 x 1080 pixels	data
+sim type	attribute
+dual sim	data
+digital zoom	attribute
+yes	data
+3g	attribute
+yes	data
+other display features	attribute
+slim metal, 2.5d glass, 5.99-inch full view display in 5.5-inch compact size, 2mm slim bezel, 18:9 full view, brightness in 450 nits	data
+flash	attribute
+front and rear led flash	data
+browse type	attribute
+smartphones	data
+bluetooth version	attribute
+5	data
+hybrid sim slot	attribute
+no	data
+sensors	attribute
+accelerometer sensor, e-compass, proximity sensor, ambient light sensor, rear fingerprint sensor, gyroscope	data
+secondary camera available	attribute
+yes	data
+width	attribute
+76 mm	data
+resolution type	attribute
+full hd+	data
+removable battery	attribute
+no	data
+wi-fi	attribute
+yes	data
+model number	attribute
+zb601kl-4a010in / zb601kl-4a020in	data
+internet connectivity	attribute
+4g, 3g, wi-fi	data
+secondary camera features	attribute
+8mp, f/2.2, camera mode - 10 effects beauty modes, hdr, landscape, sports, flowers, backlight, candle light, sunset, night, beach, snow	data
+expandable storage	attribute
+2 tb	data
+sound enhancements	attribute
+5- magnet speaker,2nd gen. nxp smart amplifier,	data
+network type	attribute
+4g volte, 2g, 3g	data
+display size	attribute
+15.21 cm (5.99 inch)	data
+other features	attribute
+fingerprint sensor - 0.3 sec fast unlock, 5 finger and 360degree recognition, power-efficient 14nm processor, 10w adapter (5v/2a), 3 slots - 2 sim card and 1 microsd, stock (pure) android, face unlock, cat lte - cat 4	data
+primary camera	attribute
+13mp + 5mp	data
+zenfone max pro m1	model
+primary clock speed	attribute
+1.8 ghz	data
+memory card slot type	attribute
+dedicated slot	data
+_id	attribute
+5bb8f5f96b7a3056106e9c4a	data
+depth	attribute
+8.3 mm	data
+graphics ppi	attribute
+295 ppi	data
+video recording resolution	attribute
+1080p	data
+map support	attribute
+google maps	data
+processor core	attribute
+quad core	data
+otg compatible	attribute
+no	data
+battery capacity	attribute
+3020 mah	data
+in the box	attribute
+handset, charger, micro-usb cable, quick start guide, eject tool, warranty card	data
+internal storage	attribute
+16 gb	data
+weight	attribute
+142 g	data
+touchscreen	attribute
+yes	data
+video recording	attribute
+yes	data
+processor type	attribute
+mediatek mt6739 cortex a53	data
+secondary camera	attribute
+5mp	data
+frame rate	attribute
+30 fps	data
+usb connectivity	attribute
+yes	data
+voice input	attribute
+yes	data
+operating system	attribute
+android oreo 8.1.0	data
+usb tethering	attribute
+yes	data
+pre-installed browser	attribute
+google chrome	data
+ram	attribute
+2 gb	data
+bluetooth support	attribute
+yes	data
+display colors	attribute
+16m	data
+fm radio	attribute
+yes	data
+expandable storage	attribute
+256 gb	data
+audio jack	attribute
+3.5mm	data
+primary camera available	attribute
+yes	data
+primary camera features	attribute
+auto focus, photo: upto 4208 x 3120 pixels, video: upto 1080p, 30fps, aperture - f/2.2, panorama, hdr, timer, beauty mode	data
+mms	attribute
+yes	data
+wi-fi version	attribute
+802.11b/g/n 2.4g	data
+supported memory card type	attribute
+microsd	data
+height	attribute
+146.5 mm	data
+color	attribute
+black	data
+wi-fi hotspot	attribute
+yes	data
+gprs features	attribute
+edge class 12: 236.8 kbit/s (uplink), 236.8 kbit/s (downlink)	data
+supported networks	attribute
+4g lte, wcdma, gsm	data
+resolution	attribute
+1440 x 720 pixels	data
+sim access	attribute
+dual standby	data
+sim type	attribute
+dual sim	data
+sms	attribute
+yes	data
+3g	attribute
+yes	data
+other display features	attribute
+18:9 fullview display, multiple-point-touch-sensitive screen	data
+flash	attribute
+rear single led flash and front single selfie toning flash	data
+browse type	attribute
+smartphones	data
+bluetooth version	attribute
+4.2	data
+hybrid sim slot	attribute
+no	data
+sensors	attribute
+accelerometer, proximity sensor, ambient light sensor	data
+micro usb port	attribute
+yes	data
+secondary camera available	attribute
+yes	data
+width	attribute
+70.9 mm	data
+edge features	attribute
+40 kbit/s (uplink), 60 kbit/s (downlink)	data
+wi-fi	attribute
+yes	data
+model number	attribute
+dua-al00	data
+gprs	attribute
+yes	data
+warranty summary	attribute
+12 months on handset, 6 months on battery, 6 months on charger & 3 months on data cable	data
+internet connectivity	attribute
+4g, 3g, wi-fi, gprs, edge	data
+secondary camera features	attribute
+fixed focus lens, photo: upto 2592 x 1936 pixels, video: upto 1080p, 30fps, aperture - f/2.2	data
+audio formats	attribute
+mp3, midi, amr-nb, aac, aac+, eaac+, pcm	data
+edge	attribute
+yes	data
+video formats	attribute
+3gp, mp4, webm, mkv	data
+3g speed	attribute
+3g wcdma - hsdpa cat 24: 42 mbit/s (downlink), hsupa cat 7: 11.4 mbit/s (uplink), wcdma: 384 kbit/s (uplink), 384 kbit/s (downlink)	data
+hd recording	attribute
+yes	data
+display type	attribute
+tft	data
+sound enhancements	attribute
+super louder receiver	data
+gps support	attribute
+yes	data
+network type	attribute
+4g, 3g, 2g	data
+display size	attribute
+13.84 cm (5.45 inch)	data
+other features	attribute
+4g lte - fdd-lte and td-lte cat 4: 50 mbit/s (uplink cat 4), 150 mbit/s (downlink cat 4), qam - uplink 16-qam, downlink 64-qam, standard 6-pin sim card interface, three in one card bar - 2 nano sim and 1 microsd, device control - physical power key, physical volume key, wi-fi direct, certification - bis, bqb, wi-fi, rohs, reach, status indicator, input method - swiftkey input method, home screen - huawei launcher, email - pop3 / imap / exchange, image file format: png, gif, jpg, bmp, webp, wbmp, streaming media - mp4, 3gp, software update - hota online update, google search and search by voice, hangouts, gmail, youtube, play store, feature applications - backup, file manager, weather, music, fm, smart face unlock	data
+primary camera	attribute
+13mp	data
+7s	model
+sim size	attribute
+dual nano sim	data
+smartphone	attribute
+yes	data
+primary clock speed	attribute
+1.5 ghz	data
+memory card slot type	attribute
+dedicated slot	data
+full hd recording	attribute
+yes	data
+_id	attribute
+5bb8f5fc6b7a3056106e9c4b	data
+depth	attribute
+10.1 mm	data
+processor core	attribute
+quad core	data
+otg compatible	attribute
+yes	data
+battery capacity	attribute
+2500 mah	data
+in the box	attribute
+handset, battery, charger, usb cable, protective screen guard, quick start guide, earphones, warranty card	data
+internal storage	attribute
+16 gb	data
+weight	attribute
+161 g	data
+touchscreen	attribute
+yes	data
+processor type	attribute
+mt6737m	data
+secondary camera	attribute
+5mp	data
+map support	attribute
+google maps	data
+usb connectivity	attribute
+yes	data
+gpu	attribute
+arm mali-t720 mp1 at 550mhz	data
+warranty summary	attribute
+brand warranty of 1 year available for mobile and 6 months for accessories	data
+operating system	attribute
+android nougat 7	data
+ram	attribute
+1 gb	data
+bluetooth support	attribute
+yes	data
+fm radio	attribute
+yes	data
+expandable storage	attribute
+64 gb	data
+audio jack	attribute
+3.5mm	data
+primary camera available	attribute
+yes	data
+primary camera features	attribute
+ppi - 3264 x 2448 pixels, format - jpg, panaroma, mode - beaut/hdr, auto focus, cdaf, 4p lens, f/2.0, 1.12 micrometer x 1.12 micrometer, 4x digital zoom, 78degree fov, 32.55 cra (degree), video recording: format mp4, 720p, 30fps	data
+wi-fi version	attribute
+802.11 b/g/n	data
+supported memory card type	attribute
+microsd	data
+height	attribute
+144.7 mm	data
+color	attribute
+gold	data
+supported networks	attribute
+4g volte, 4g lte, gsm, umts	data
+resolution	attribute
+480 x 854 pixels	data
+sim type	attribute
+dual sim	data
+3g	attribute
+yes	data
+other display features	attribute
+display protection - agc ii, brightness - 380 nits, capacitive display	data
+flash	attribute
+rear flash	data
+browse type	attribute
+smartphones	data
+bluetooth version	attribute
+4.0	data
+hybrid sim slot	attribute
+no	data
+sensors	attribute
+accelerometer, proximity sensor, ambient light sensor	data
+secondary camera available	attribute
+yes	data
+width	attribute
+72.4 mm	data
+resolution type	attribute
+fwvga	data
+removable battery	attribute
+yes	data
+wi-fi	attribute
+yes	data
+model number	attribute
+p91	data
+gprs	attribute
+yes	data
+internet connectivity	attribute
+4g, 3g, wi-fi	data
+operating frequency	attribute
+gsm - 850/900/1800/1900, umts - 900/2100, lte fdd: 1/3/5 tdd:40	data
+user memory	attribute
+10.08	data
+secondary camera features	attribute
+ppi - 2592 x 1944 pixels, format - jpg, panaroma, mode - beaut/hdr, fixed focus, cdaf, 3p lens, f/2.4, 1.12 micrometer x 1.12 micrometer, 4x digital zoom, 82degree fov, 30.1 cra (degree), video recording: format mp4, 720p, 30fps	data
+audio formats	attribute
+aac, aac+, aac+ enhanced, ogg vorbis, wav, mp3, midi	data
+video formats	attribute
+h.263, h.264, mpeg4	data
+3g speed	attribute
+hspa+	data
+display type	attribute
+ips	data
+sound enhancements	attribute
+single speaker	data
+gps support	attribute
+yes	data
+network type	attribute
+4g volte, 3g, 2g	data
+display size	attribute
+12.7 cm (5 inch)	data
+other features	attribute
+wi-fi direct, supported frequency band 2.4 ghz	data
+primary camera	attribute
+8mp	data
+p91	model
+sim size	attribute
+micro sim and micro sim	data
+smartphone	attribute
+yes	data
+primary clock speed	attribute
+1.1 ghz	data
+memory card slot type	attribute
+dedicated slot	data
+_id	attribute
+5bb8f5fe6b7a3056106e9c4c	data
+depth	attribute
+8.8 mm	data
+dual camera lens	attribute
+primary camera	data
+processor core	attribute
+octa core	data
+otg compatible	attribute
+yes	data
+battery capacity	attribute
+4000 mah	data
+in the box	attribute
+handset, adapter, usb cable, warranty card, user guide, sim insertion tool, back case	data
+internal storage	attribute
+128 gb	data
+weight	attribute
+180 g	data
+touchscreen	attribute
+yes	data
+wi-fi hotspot	attribute
+yes	data
+processor type	attribute
+qualcomm snapdragon 845	data
+secondary camera	attribute
+20mp	data
+map support	attribute
+google maps	data
+warranty summary	attribute
+brand warranty of 1 year available for mobile and 6 months for accessories	data
+expandable storage	attribute
+256 gb	data
+ram	attribute
+6 gb	data
+bluetooth support	attribute
+yes	data
+fm radio	attribute
+yes	data
+f1	model
+primary camera available	attribute
+yes	data
+primary camera features	attribute
+dual rear camera with primary 6p lens and secondary 4p lens, f/1.9 primary aperture and f/2.0 secondary aperture, dual rear camera with 6-element primary lens and 4-element secondary lens	data
+wi-fi version	attribute
+801.11b/g/n/ac	data
+supported memory card type	attribute
+microsd	data
+height	attribute
+155.5 mm	data
+color	attribute
+steel blue	data
+supported networks	attribute
+4g volte, 4g lte, gsm	data
+resolution	attribute
+2160 x 1080 pixels	data
+sim type	attribute
+dual sim	data
+graphics ppi	attribute
+403 ppi	data
+3g	attribute
+yes	data
+other display features	attribute
+18.7:9 notch display	data
+browse type	attribute
+smartphones	data
+operating system	attribute
+android oreo 8.1	data
+bluetooth version	attribute
+5.0	data
+hybrid sim slot	attribute
+yes	data
+sensors	attribute
+gyroscope, proximity, accelerometer, ambient light sensor	data
+secondary camera available	attribute
+yes	data
+width	attribute
+75.3 mm	data
+resolution type	attribute
+fhd+	data
+removable battery	attribute
+no	data
+wi-fi	attribute
+yes	data
+model number	attribute
+mzb6647in	data
+sim size	attribute
+nano sim and nano sim	data
+internet connectivity	attribute
+4g, 3g, wi-fi	data
+secondary camera features	attribute
+ir front camera with f/2.0 aperture	data
+video call support	attribute
+yes	data
+display type	attribute
+ips	data
+gps support	attribute
+yes	data
+network type	attribute
+4g volte, 3g, 2g	data
+display size	attribute
+15.7 cm (6.18 inch)	data
+other features	attribute
+10 nm architecture processor, battery power rating - 9v/2a	data
+primary camera	attribute
+12mp + 5mp	data
+smartphone	attribute
+yes	data
+primary clock speed	attribute
+2.8 ghz	data
+memory card slot type	attribute
+hybrid slot	data
+_id	attribute
+5bb8f6006b7a3056106e9c4d	data
+depth	attribute
+8.05 mm	data
+dual camera lens	attribute
+primary camera	data
+processor core	attribute
+octa core	data
+otg compatible	attribute
+yes	data
+battery capacity	attribute
+4000 mah	data
+in the box	attribute
+handset, power adapter, usb data cable, ultra thin case, warranty card, getting started guide, pin	data
+internal storage	attribute
+64 gb	data
+weight	attribute
+181 g	data
+touchscreen	attribute
+yes	data
+processor type	attribute
+qualcomm snapdragon 636	data
+secondary camera	attribute
+20mp	data
+map support	attribute
+google maps	data
+usb connectivity	attribute
+yes	data
+gpu	attribute
+adreno 509	data
+warranty summary	attribute
+brand warranty of 1 year available for mobile and 6 months for accessories	data
+operating system	attribute
+android nougat 7.1.2	data
+ram	attribute
+4 gb	data
+bluetooth support	attribute
+yes	data
+expandable storage	attribute
+128 gb	data
+audio jack	attribute
+3.5 mm	data
+primary camera available	attribute
+yes	data
+primary camera features	attribute
+primary sensor - f/2.2, 1.25 microns pixel size, 5p lens, secondary sensor - f/2.0, 1.12 microns pixel size, 4p lens, pdaf	data
+wi-fi version	attribute
+802.11 a/b/g/n/ac	data
+supported memory card type	attribute
+microsd	data
+height	attribute
+158.58 mm	data
+color	attribute
+black	data
+supported networks	attribute
+4g volte, umts, gsm, 4g lte, wcdma	data
+resolution	attribute
+2160 x 1080 pixels	data
+sim type	attribute
+dual sim	data
+graphics ppi	attribute
+403 ppi	data
+3g	attribute
+yes	data
+other display features	attribute
+contrast ratio: 1000:1 (min), 2.5d glass, corning gorilla glass	data
+flash	attribute
+rear and front flash	data
+browse type	attribute
+smartphones	data
+bluetooth version	attribute
+5	data
+hybrid sim slot	attribute
+yes	data
+sensors	attribute
+fingerprint scanner, ambient light sensor, proximity sensor, e compass, accelerometer, hall sensor, gyroscope	data
+micro usb port	attribute
+yes	data
+secondary camera available	attribute
+yes	data
+width	attribute
+75.35 mm	data
+resolution type	attribute
+full hd+	data
+wi-fi	attribute
+yes	data
+model number	attribute
+mzb6079in / mzb6087in	data
+sim size	attribute
+nano sim and nano sim	data
+internet connectivity	attribute
+4g, 3g, wi-fi	data
+operating frequency	attribute
+gsm - b2, b3, b5, b8, wcdma - b1, b2, b5, b8, 4g lte tdd - b40, b41 (2535 - 2655 mhz), lte fdd - b1, b3, b5	data
+secondary camera features	attribute
+aperture - f/2.2, 1.0 microns pixel size	data
+display type	attribute
+ips (in-cell)	data
+sound enhancements	attribute
+speaker - single (bottom opening), microphones - 2 (for noise cancellation)	data
+gps support	attribute
+yes	data
+network type	attribute
+4g volte, 4g, 3g	data
+display size	attribute
+15.21 cm (5.99 inch)	data
+other features	attribute
+14 nm architecture processor, internal memory - emmc v5.1, body - metal back, ir blaster, charger - 5 v x 2 a	data
+primary camera	attribute
+12mp + 5mp	data
+redmi note 5 pro	model
+smartphone	attribute
+yes	data
+primary clock speed	attribute
+1.8 ghz	data
+memory card slot type	attribute
+hybrid slot	data
+_id	attribute
+5bb8f6036b7a3056106e9c4e	data
+depth	attribute
+8.05 mm	data
+dual camera lens	attribute
+primary camera	data
+processor core	attribute
+octa core	data
+otg compatible	attribute
+yes	data
+battery capacity	attribute
+4000 mah	data
+in the box	attribute
+handset, power adapter, usb data cable, ultra thin case, warranty card, getting started guide, pin	data
+internal storage	attribute
+64 gb	data
+weight	attribute
+181 g	data
+touchscreen	attribute
+yes	data
+processor type	attribute
+qualcomm snapdragon 636	data
+secondary camera	attribute
+20mp	data
+map support	attribute
+google maps	data
+usb connectivity	attribute
+yes	data
+gpu	attribute
+adreno 509	data
+warranty summary	attribute
+brand warranty of 1 year available for mobile and 6 months for accessories	data
+operating system	attribute
+android nougat 7.1.2	data
+ram	attribute
+4 gb	data
+bluetooth support	attribute
+yes	data
+expandable storage	attribute
+128 gb	data
+audio jack	attribute
+3.5 mm	data
+primary camera available	attribute
+yes	data
+primary camera features	attribute
+primary sensor - f/2.2, 1.25 microns pixel size, 5p lens, secondary sensor - f/2.0, 1.12 microns pixel size, 4p lens, pdaf	data
+wi-fi version	attribute
+802.11 a/b/g/n/ac	data
+supported memory card type	attribute
+microsd	data
+height	attribute
+158.58 mm	data
+color	attribute
+red	data
+supported networks	attribute
+4g volte, umts, gsm, 4g lte, wcdma	data
+resolution	attribute
+2160 x 1080 pixels	data
+sim type	attribute
+dual sim	data
+graphics ppi	attribute
+403 ppi	data
+3g	attribute
+yes	data
+other display features	attribute
+contrast ratio: 1000:1 (min), 2.5d glass, corning gorilla glass	data
+flash	attribute
+rear and front flash	data
+browse type	attribute
+smartphones	data
+bluetooth version	attribute
+5	data
+hybrid sim slot	attribute
+yes	data
+sensors	attribute
+fingerprint scanner, ambient light sensor, proximity sensor, e compass, accelerometer, hall sensor, gyroscope	data
+micro usb port	attribute
+yes	data
+secondary camera available	attribute
+yes	data
+width	attribute
+75.35 mm	data
+resolution type	attribute
+full hd+	data
+wi-fi	attribute
+yes	data
+model number	attribute
+mzb6634in	data
+sim size	attribute
+nano sim and nano sim	data
+internet connectivity	attribute
+4g, 3g, wi-fi	data
+operating frequency	attribute
+gsm - b2, b3, b5, b8, wcdma - b1, b2, b5, b8, 4g lte tdd - b40, b41 (2535 - 2655 mhz), lte fdd - b1, b3, b5	data
+secondary camera features	attribute
+aperture - f/2.2, 1.0 microns pixel size	data
+display type	attribute
+ips (in-cell)	data
+sound enhancements	attribute
+speaker - single (bottom opening), microphones - 2 (for noise cancellation)	data
+gps support	attribute
+yes	data
+network type	attribute
+4g volte, 4g, 3g	data
+display size	attribute
+15.21 cm (5.99 inch)	data
+other features	attribute
+14 nm architecture processor, internal memory - emmc v5.1, body - metal back, ir blaster, charger - 5 v x 2 a	data
+primary camera	attribute
+12mp + 5mp	data
+redmi note 5 pro	model
+smartphone	attribute
+yes	data
+primary clock speed	attribute
+1.8 ghz	data
+memory card slot type	attribute
+hybrid slot	data
+_id	attribute
+5bb8f6056b7a3056106e9c4f	data
+depth	attribute
+8.98 mm	data
+dual camera lens	attribute
+primary camera	data
+video recording resolution	attribute
+2160p	data
+resolution type	attribute
+fhd+	data
+processor core	attribute
+octa core	data
+otg compatible	attribute
+yes	data
+battery capacity	attribute
+5000 mah	data
+in the box	attribute
+handset, travel charger (15w), sim ejector tool, user manual	data
+internal storage	attribute
+64 gb	data
+weight	attribute
+205 g	data
+touchscreen	attribute
+yes	data
+video recording	attribute
+yes	data
+processor type	attribute
+qualcomm snapdragon 636	data
+secondary camera	attribute
+12mp	data
+frame rate	attribute
+uhd at 30fps, fhd at 30fps, fhd at 60fps, vga at 30 fps	data
+usb connectivity	attribute
+yes	data
+gpu	attribute
+430 mhz adreno 509	data
+warranty summary	attribute
+brand warranty of 1 year available for mobile and 6 months for accessories	data
+operating system	attribute
+android oreo 8.1	data
+bluetooth support	attribute
+yes	data
+fm radio	attribute
+yes	data
+expandable storage	attribute
+256 gb	data
+primary camera available	attribute
+yes	data
+primary camera features	attribute
+16mp - pdaf (f1.8, 1.12 micrometer), 5mp - f2.2, 1.0 micrometer	data
+wi-fi version	attribute
+802.11a/b/g/n/ac (2.4 ghz + 5 ghz)	data
+supported memory card type	attribute
+microsd	data
+height	attribute
+156 mm	data
+color	attribute
+black	data
+wi-fi hotspot	attribute
+yes	data
+supported networks	attribute
+4g lte, umts, gsm	data
+map support	attribute
+google maps	data
+resolution	attribute
+1080 x 2246 pixels	data
+sim type	attribute
+dual sim	data
+graphics ppi	attribute
+403 ppi	data
+3g	attribute
+yes	data
+other display features	attribute
+corning gorilla glass	data
+flash	attribute
+rear color correlated temperature (cct) dual led flash and front single flash	data
+browse type	attribute
+smartphones	data
+bluetooth version	attribute
+5.0	data
+hybrid sim slot	attribute
+no	data
+sensors	attribute
+fingerprint reader, proximity sensor, accelerometer, ambient light sensor, magnetometer, gyroscope, e-compass	data
+secondary camera available	attribute
+yes	data
+width	attribute
+76 mm	data
+quick charging	attribute
+yes	data
+removable battery	attribute
+no	data
+wi-fi	attribute
+yes	data
+ram	attribute
+4 gb	data
+sim size	attribute
+dual nano sim	data
+internet connectivity	attribute
+4g, 3g, wi-fi, edge	data
+secondary camera features	attribute
+f2.0, 1.25 micrometer	data
+edge	attribute
+yes	data
+3g speed	attribute
+hspa+	data
+hd recording	attribute
+yes	data
+display type	attribute
+ltps ips	data
+sound enhancements	attribute
+dolby audio, bottom-ported speaker, 2 mics	data
+gps support	attribute
+yes	data
+network type	attribute
+4g, 3g, 2g	data
+display size	attribute
+15.75 cm (6.2 inch)	data
+other features	attribute
+15w turbopower for upto 6 hours of power in 15 minutes, 4g lte (cat 6), usb type-c port with turbo charge support, water protection - p2i	data
+primary camera	attribute
+16mp + 5mp	data
+moto one power	model
+upgradable operating system	attribute
+android p	data
+smartphone	attribute
+yes	data
+primary clock speed	attribute
+1.8 ghz	data
+memory card slot type	attribute
+dedicated slot	data
+full hd recording	attribute
+yes	data
+_id	attribute
+5bb8f6076b7a3056106e9c50	data
+depth	attribute
+7.8 mm	data
+dual camera lens	attribute
+primary camera	data
+processor core	attribute
+octa core	data
+otg compatible	attribute
+yes	data
+battery capacity	attribute
+3000 mah	data
+in the box	attribute
+handset, charger, usb cable, quick start guide, eject tool, battery protect film, tp protect film, warranty card	data
+internal storage	attribute
+32 gb	data
+weight	attribute
+150 g	data
+touchscreen	attribute
+yes	data
+wi-fi hotspot	attribute
+yes	data
+processor type	attribute
+qualcomm snapdragon octa core	data
+secondary camera	attribute
+8.0mp	data
+map support	attribute
+google maps	data
+usb connectivity	attribute
+yes	data
+warranty summary	attribute
+12 months on handset, 6 months on battery, 6 months on charger & 3 months on data cable	data
+operating system	attribute
+android oreo 8.0	data
+secondary clock speed	attribute
+1.1 ghz	data
+usb tethering	attribute
+yes	data
+pre-installed browser	attribute
+google chrome	data
+ram	attribute
+3 gb	data
+bluetooth support	attribute
+yes	data
+display colors	attribute
+16m	data
+graphics ppi	attribute
+283 ppi	data
+expandable storage	attribute
+256 gb	data
+audio jack	attribute
+3.5 mm	data
+primary camera available	attribute
+yes	data
+primary camera features	attribute
+pdaf, photo: up to 4160x3120p, video: up to 1920x1080p, panorama, watermark, hdr, bokeh mode	data
+mms	attribute
+yes	data
+wi-fi version	attribute
+802.11 b/g/n (2.4g)	data
+supported memory card type	attribute
+microsd	data
+height	attribute
+152.4 mm	data
+color	attribute
+blue	data
+supported networks	attribute
+4g volte, umts, gsm, 4g lte, wcdma	data
+resolution	attribute
+1440 x 720 pixels	data
+sim type	attribute
+dual sim	data
+sms	attribute
+yes	data
+user interface	attribute
+emui 8.0	data
+other display features	attribute
+multiple-point touch-sensitive screen	data
+flash	attribute
+single-led flash and selfie toning flash	data
+browse type	attribute
+smartphones	data
+bluetooth version	attribute
+4.2	data
+hybrid sim slot	attribute
+no	data
+sensors	attribute
+accelerometer, proximity sensor, ambient light sensor, fingerprint sensor	data
+micro usb port	attribute
+yes	data
+secondary camera available	attribute
+yes	data
+width	attribute
+73 mm	data
+resolution type	attribute
+hd+	data
+wi-fi	attribute
+yes	data
+model number	attribute
+v100r001 / aum-al20	data
+sim size	attribute
+nano sim (6-pin sim)	data
+internet connectivity	attribute
+4g, 3g, wi-fi	data
+secondary camera features	attribute
+fixed focus lens, photo: up to 3264x2448p, video: up to 1920x1080p	data
+audio formats	attribute
+mp3, mp4, 4gp, ogg, amr, aac, flac, wav, midi	data
+video formats	attribute
+3gp, mp4, wmv, asf	data
+display type	attribute
+gff	data
+sound enhancements	attribute
+sws, double-microphone noise reduction	data
+gps support	attribute
+yes	data
+network type	attribute
+4g, 4g volte, 2g, 3g	data
+display size	attribute
+14.48 cm (5.7 inch)	data
+other features	attribute
+device control - physical power key, 0/hs20, status indicator, swiftkey input method, wcdma: amr-nb, gsm/gprs: fr/efr/hr/amr-nb, e-mail - pop3/imap/exchange, image file format: png, gif, jpg, bmp, webp, wbmp, hota online update, google mobile suite - google search & search by voice, hangouts, gmail, maps, youtube, play store, feature applications - backup, file manager, weather, music, contacts import, face id (face unlock)	data
+primary camera	attribute
+13mp + 2mp	data
+7a	model
+smartphone	attribute
+yes	data
+primary clock speed	attribute
+1.4 ghz	data
+memory card slot type	attribute
+dedicated slot	data
+_id	attribute
+5bb8faea6b7a305730dcbd77	data
+sim type	attribute
+dual sim	data
+flash	attribute
+rear and front flash	data
+redmi note 5 pro	model
+weight	attribute
+181 g	data
+ram	attribute
+6 gb	data
+primary camera available	attribute
+yes	data
+hybrid sim slot	attribute
+yes	data
+supported memory card type	attribute
+microsd	data
+dual camera lens	attribute
+primary camera	data
+internal storage	attribute
+64 gb	data
+supported networks	attribute
+4g volte, umts, gsm, 4g lte, wcdma	data
+touchscreen	attribute
+yes	data
+wi-fi	attribute
+yes	data
+depth	attribute
+8.05 mm	data
+memory card slot type	attribute
+hybrid slot	data
+otg compatible	attribute
+yes	data
+network type	attribute
+4g volte, 4g, 3g	data
+graphics ppi	attribute
+403 ppi	data
+width	attribute
+75.35 mm	data
+primary camera features	attribute
+primary sensor - f/2.2, 1.25 microns pixel size, 5p lens, secondary sensor - f/2.0, 1.12 microns pixel size, 4p lens, pdaf	data
+primary clock speed	attribute
+1.8 ghz	data
+sound enhancements	attribute
+speaker - single (bottom opening), microphones - 2 (for noise cancellation)	data
+processor type	attribute
+qualcomm snapdragon 636	data
+internet connectivity	attribute
+4g, 3g, wi-fi	data
+model number	attribute
+mzb6083in	data
+resolution	attribute
+2160 x 1080 pixels	data
+other display features	attribute
+contrast ratio: 1000:1 (min), 2.5d glass, corning gorilla glass	data
+map support	attribute
+google maps	data
+display size	attribute
+15.21 cm (5.99 inch)	data
+gps support	attribute
+yes	data
+height	attribute
+158.58 mm	data
+operating system	attribute
+android nougat 7.1.2	data
+operating frequency	attribute
+gsm - b2, b3, b5, b8, wcdma - b1, b2, b5, b8, 4g lte tdd - b40, b41 (2535 - 2655 mhz), lte fdd - b1, b3, b5	data
+warranty summary	attribute
+brand warranty of 1 year available for mobile and 6 months for accessories	data
+wi-fi version	attribute
+802.11 a/b/g/n/ac	data
+bluetooth support	attribute
+yes	data
+usb connectivity	attribute
+yes	data
+other features	attribute
+14 nm architecture processor, internal memory - emmc v5.1, body - metal back, ir blaster, charger - 5 v x 2 a	data
+smartphone	attribute
+yes	data
+audio jack	attribute
+3.5 mm	data
+battery capacity	attribute
+4000 mah	data
+sensors	attribute
+fingerprint scanner, ambient light sensor, proximity sensor, e compass, accelerometer, hall sensor, gyroscope	data
+secondary camera	attribute
+20mp	data
+resolution type	attribute
+full hd+	data
+3g	attribute
+yes	data
+gpu	attribute
+adreno 509	data
+display type	attribute
+ips (in-cell)	data
+micro usb port	attribute
+yes	data
+browse type	attribute
+smartphones	data
+secondary camera features	attribute
+aperture - f/2.2, 1.0 microns pixel size	data
+primary camera	attribute
+12mp + 5mp	data
+secondary camera available	attribute
+yes	data
+bluetooth version	attribute
+5.0	data
+expandable storage	attribute
+128 gb	data
+processor core	attribute
+octa core	data
+sim size	attribute
+nano sim and nano sim	data
+color	attribute
+black	data
+in the box	attribute
+handset, power adapter, usb data cable, ultra thin case, warranty card, getting started guide, pin	data
+_id	attribute
+5bb8faee6b7a305730dcbd78	data
+sim type	attribute
+dual sim	data
+flash	attribute
+rear and front led flash	data
+zenfone max pro m1	model
+weight	attribute
+180 g	data
+ram	attribute
+6 gb	data
+primary camera available	attribute
+yes	data
+hybrid sim slot	attribute
+no	data
+supported memory card type	attribute
+microsd	data
+dual camera lens	attribute
+primary camera	data
+internal storage	attribute
+64 gb	data
+supported networks	attribute
+4g volte, umts, wcdma, gsm	data
+touchscreen	attribute
+yes	data
+wi-fi	attribute
+yes	data
+depth	attribute
+8.46 mm	data
+memory card slot type	attribute
+dedicated slot	data
+gpu	attribute
+adreno 509	data
+otg compatible	attribute
+yes	data
+network type	attribute
+4g volte, 3g, 2g	data
+width	attribute
+76 mm	data
+fm radio recording	attribute
+yes	data
+primary clock speed	attribute
+1.8 ghz	data
+usb connectivity	attribute
+yes	data
+processor type	attribute
+qualcomm snapdragon 636 octa core	data
+internet connectivity	attribute
+4g, 3g, wi-fi	data
+model number	attribute
+zb601kl-4a005in / zb601kl-4a015in	data
+resolution	attribute
+2160 x 1080 pixels	data
+other display features	attribute
+2.5d glass, 5.99inch full view display in 5.5-inch compact size, 83.7% screen to body ratio, 2mm slim bezel, 18:9 full view, brightness in 450 nits, 1500:1 high contrast ratio, 85% ntsc color gamut	data
+map support	attribute
+google maps	data
+display size	attribute
+15.21 cm (5.99 inch)	data
+gps support	attribute
+yes	data
+height	attribute
+159 mm	data
+operating system	attribute
+android oreo 8.1	data
+primary camera features	attribute
+16mp, f/2.0, pdaf + 5mp with bokeh, f2.4, 1.12micrometer, stock android camera - beauty modes, hdr, landscape, sports, flowers, backlight, candle light, sunset, night, beach, snow.	data
+warranty summary	attribute
+brand warranty of 1 year available for handset and 6 months for accessories	data
+wi-fi hotspot	attribute
+yes	data
+bluetooth support	attribute
+yes	data
+wi-fi version	attribute
+802.11 b/g/n	data
+other features	attribute
+slim metal 3-section design, fingerprint sensor - 0.3 sec fast unlock, 5 finger & 360degree recognition, power-efficient 14nm processor, 10w adapter (5v/2a), 3 slot, 2 sim card, 1 microsd, stock (pure) android, face unlock, cat 4	data
+smartphone	attribute
+yes	data
+audio jack	attribute
+yes	data
+battery capacity	attribute
+5000 mah	data
+sensors	attribute
+rear fingerprint sensor, accelerometer sensor, e-compass, proximity sensor, ambient light sensor, gyroscope sensor	data
+secondary camera	attribute
+16mp	data
+resolution type	attribute
+full hd+	data
+removable battery	attribute
+no	data
+usb tethering	attribute
+yes	data
+fm radio	attribute
+yes	data
+sound enhancements	attribute
+5 magnet speaker, 2nd gen. nxp smart amp, max audio box, dual microphone	data
+micro usb port	attribute
+yes	data
+browse type	attribute
+smartphones	data
+secondary camera features	attribute
+16mp, f/2.0, 5p lens, stock android camera - beauty modes, hdr, landscape, sports, flowers, backlight, candle light, sunset, night, beach, snow, portrait mode	data
+primary camera	attribute
+16mp + 5mp	data
+secondary camera available	attribute
+yes	data
+bluetooth version	attribute
+5	data
+expandable storage	attribute
+2 tb	data
+processor core	attribute
+octa core	data
+color	attribute
+black	data
+in the box	attribute
+handset, adapter, usb cable, warranty card, sim ejector, user manual, max-box, transparent back cover	data
+_id	attribute
+5bb8faef6b7a305730dcbd79	data
+sim type	attribute
+dual sim	data
+flash	attribute
+front and rear led flash	data
+zenfone max pro m1	model
+digital zoom	attribute
+yes	data
+ram	attribute
+3 gb	data
+primary camera available	attribute
+yes	data
+hybrid sim slot	attribute
+no	data
+supported memory card type	attribute
+microsd	data
+dual camera lens	attribute
+primary camera	data
+internal storage	attribute
+32 gb	data
+supported networks	attribute
+4g volte, gsm, 4g lte, wcdma	data
+touchscreen	attribute
+yes	data
+wi-fi	attribute
+yes	data
+depth	attribute
+8.46 mm	data
+memory card slot type	attribute
+dedicated slot	data
+otg compatible	attribute
+yes	data
+network type	attribute
+4g volte, 2g, 3g	data
+width	attribute
+76 mm	data
+battery capacity	attribute
+5000 mah	data
+primary clock speed	attribute
+1.8 ghz	data
+sound enhancements	attribute
+5- magnet speaker,2nd gen. nxp smart amplifier,	data
+processor type	attribute
+qualcomm snapdragon 636 octa core	data
+internet connectivity	attribute
+4g, 3g, wi-fi	data
+model number	attribute
+zb601kl-4a010in / zb601kl-4a020in	data
+resolution	attribute
+2160 x 1080 pixels	data
+other display features	attribute
+slim metal, 2.5d glass, 5.99-inch full view display in 5.5-inch compact size, 2mm slim bezel, 18:9 full view, brightness in 450 nits	data
+weight	attribute
+180 g	data
+display size	attribute
+15.21 cm (5.99 inch)	data
+height	attribute
+159 mm	data
+operating system	attribute
+android oreo 8.1	data
+primary camera features	attribute
+13mp, f/2.2, pdaf + 5mp with bokeh, camera modes - 10 effects beauty modes, hdr, landscape, sports, flowers, backlight, candle light, sunset, night, beach, snow	data
+secondary camera	attribute
+8mp	data
+warranty summary	attribute
+brand warranty of 1 year available for handset and 6 months for accessories	data
+wi-fi version	attribute
+802.11 b/g/n	data
+bluetooth support	attribute
+yes	data
+other features	attribute
+fingerprint sensor - 0.3 sec fast unlock, 5 finger and 360degree recognition, power-efficient 14nm processor, 10w adapter (5v/2a), 3 slots - 2 sim card and 1 microsd, stock (pure) android, face unlock, cat lte - cat 4	data
+smartphone	attribute
+yes	data
+sensors	attribute
+accelerometer sensor, e-compass, proximity sensor, ambient light sensor, rear fingerprint sensor, gyroscope	data
+removable battery	attribute
+no	data
+resolution type	attribute
+full hd+	data
+3g	attribute
+yes	data
+gpu	attribute
+adreno 509	data
+browse type	attribute
+smartphones	data
+secondary camera features	attribute
+8mp, f/2.2, camera mode - 10 effects beauty modes, hdr, landscape, sports, flowers, backlight, candle light, sunset, night, beach, snow	data
+primary camera	attribute
+13mp + 5mp	data
+secondary camera available	attribute
+yes	data
+bluetooth version	attribute
+5	data
+expandable storage	attribute
+2 tb	data
+processor core	attribute
+octa core	data
+color	attribute
+black	data
+in the box	attribute
+handset, charger, user manual, warranty card, max-box, sim ejector	data
+_id	attribute
+5bb8faf06b7a305730dcbd7a	data
+sim type	attribute
+dual sim	data
+3g speed	attribute
+3g wcdma - hsdpa cat 24: 42 mbit/s (downlink), hsupa cat 7: 11.4 mbit/s (uplink), wcdma: 384 kbit/s (uplink), 384 kbit/s (downlink)	data
+flash	attribute
+rear single led flash and front single selfie toning flash	data
+7s	model
+height	attribute
+146.5 mm	data
+ram	attribute
+2 gb	data
+primary camera available	attribute
+yes	data
+hybrid sim slot	attribute
+no	data
+supported memory card type	attribute
+microsd	data
+video formats	attribute
+3gp, mp4, webm, mkv	data
+internal storage	attribute
+16 gb	data
+supported networks	attribute
+4g lte, wcdma, gsm	data
+touchscreen	attribute
+yes	data
+wi-fi	attribute
+yes	data
+depth	attribute
+8.3 mm	data
+memory card slot type	attribute
+dedicated slot	data
+frame rate	attribute
+30 fps	data
+otg compatible	attribute
+no	data
+network type	attribute
+4g, 3g, 2g	data
+graphics ppi	attribute
+295 ppi	data
+width	attribute
+70.9 mm	data
+gprs features	attribute
+edge class 12: 236.8 kbit/s (uplink), 236.8 kbit/s (downlink)	data
+primary clock speed	attribute
+1.5 ghz	data
+sound enhancements	attribute
+super louder receiver	data
+processor type	attribute
+mediatek mt6739 cortex a53	data
+internet connectivity	attribute
+4g, 3g, wi-fi, gprs, edge	data
+model number	attribute
+dua-al00	data
+resolution	attribute
+1440 x 720 pixels	data
+other display features	attribute
+18:9 fullview display, multiple-point-touch-sensitive screen	data
+weight	attribute
+142 g	data
+pre-installed browser	attribute
+google chrome	data
+gprs	attribute
+yes	data
+display size	attribute
+13.84 cm (5.45 inch)	data
+map support	attribute
+google maps	data
+gps support	attribute
+yes	data
+sensors	attribute
+accelerometer, proximity sensor, ambient light sensor	data
+operating system	attribute
+android oreo 8.1.0	data
+primary camera features	attribute
+auto focus, photo: upto 4208 x 3120 pixels, video: upto 1080p, 30fps, aperture - f/2.2, panorama, hdr, timer, beauty mode	data
+audio formats	attribute
+mp3, midi, amr-nb, aac, aac+, eaac+, pcm	data
+mms	attribute
+yes	data
+warranty summary	attribute
+12 months on handset, 6 months on battery, 6 months on charger & 3 months on data cable	data
+wi-fi version	attribute
+802.11b/g/n 2.4g	data
+bluetooth support	attribute
+yes	data
+edge features	attribute
+40 kbit/s (uplink), 60 kbit/s (downlink)	data
+voice input	attribute
+yes	data
+wi-fi hotspot	attribute
+yes	data
+sim access	attribute
+dual standby	data
+video recording resolution	attribute
+1080p	data
+other features	attribute
+4g lte - fdd-lte and td-lte cat 4: 50 mbit/s (uplink cat 4), 150 mbit/s (downlink cat 4), qam - uplink 16-qam, downlink 64-qam, standard 6-pin sim card interface, three in one card bar - 2 nano sim and 1 microsd, device control - physical power key, physical volume key, wi-fi direct, certification - bis, bqb, wi-fi, rohs, reach, status indicator, input method - swiftkey input method, home screen - huawei launcher, email - pop3 / imap / exchange, image file format: png, gif, jpg, bmp, webp, wbmp, streaming media - mp4, 3gp, software update - hota online update, google search and search by voice, hangouts, gmail, youtube, play store, feature applications - backup, file manager, weather, music, fm, smart face unlock	data
+smartphone	attribute
+yes	data
+audio jack	attribute
+3.5mm	data
+video recording	attribute
+yes	data
+battery capacity	attribute
+3020 mah	data
+hd recording	attribute
+yes	data
+secondary camera	attribute
+5mp	data
+display colors	attribute
+16m	data
+3g	attribute
+yes	data
+edge	attribute
+yes	data
+usb tethering	attribute
+yes	data
+fm radio	attribute
+yes	data
+usb connectivity	attribute
+yes	data
+display type	attribute
+tft	data
+micro usb port	attribute
+yes	data
+browse type	attribute
+smartphones	data
+sms	attribute
+yes	data
+full hd recording	attribute
+yes	data
+primary camera	attribute
+13mp	data
+secondary camera available	attribute
+yes	data
+bluetooth version	attribute
+4.2	data
+expandable storage	attribute
+256 gb	data
+processor core	attribute
+quad core	data
+secondary camera features	attribute
+fixed focus lens, photo: upto 2592 x 1936 pixels, video: upto 1080p, 30fps, aperture - f/2.2	data
+sim size	attribute
+dual nano sim	data
+color	attribute
+black	data
+in the box	attribute
+handset, charger, micro-usb cable, quick start guide, eject tool, warranty card	data
+_id	attribute
+5bb8faf26b7a305730dcbd7b	data
+sim type	attribute
+dual sim	data
+flash	attribute
+single-led flash and selfie toning flash	data
+7a	model
+secondary clock speed	attribute
+1.1 ghz	data
+weight	attribute
+150 g	data
+ram	attribute
+3 gb	data
+primary camera available	attribute
+yes	data
+hybrid sim slot	attribute
+no	data
+supported memory card type	attribute
+microsd	data
+video formats	attribute
+3gp, mp4, wmv, asf	data
+dual camera lens	attribute
+primary camera	data
+internal storage	attribute
+32 gb	data
+supported networks	attribute
+4g volte, umts, gsm, 4g lte, wcdma	data
+touchscreen	attribute
+yes	data
+wi-fi	attribute
+yes	data
+depth	attribute
+7.8 mm	data
+memory card slot type	attribute
+dedicated slot	data
+otg compatible	attribute
+yes	data
+network type	attribute
+4g, 4g volte, 2g, 3g	data
+graphics ppi	attribute
+283 ppi	data
+user interface	attribute
+emui 8.0	data
+battery capacity	attribute
+3000 mah	data
+primary clock speed	attribute
+1.4 ghz	data
+sound enhancements	attribute
+sws, double-microphone noise reduction	data
+processor type	attribute
+qualcomm snapdragon octa core	data
+internet connectivity	attribute
+4g, 3g, wi-fi	data
+model number	attribute
+v100r001 / aum-al20	data
+resolution	attribute
+1440 x 720 pixels	data
+other display features	attribute
+multiple-point touch-sensitive screen	data
+pre-installed browser	attribute
+google chrome	data
+map support	attribute
+google maps	data
+display size	attribute
+14.48 cm (5.7 inch)	data
+gps support	attribute
+yes	data
+height	attribute
+152.4 mm	data
+width	attribute
+73 mm	data
+operating system	attribute
+android oreo 8.0	data
+primary camera features	attribute
+pdaf, photo: up to 4160x3120p, video: up to 1920x1080p, panorama, watermark, hdr, bokeh mode	data
+mms	attribute
+yes	data
+warranty summary	attribute
+12 months on handset, 6 months on battery, 6 months on charger & 3 months on data cable	data
+wi-fi version	attribute
+802.11 b/g/n (2.4g)	data
+bluetooth support	attribute
+yes	data
+resolution type	attribute
+hd+	data
+wi-fi hotspot	attribute
+yes	data
+other features	attribute
+device control - physical power key, 0/hs20, status indicator, swiftkey input method, wcdma: amr-nb, gsm/gprs: fr/efr/hr/amr-nb, e-mail - pop3/imap/exchange, image file format: png, gif, jpg, bmp, webp, wbmp, hota online update, google mobile suite - google search & search by voice, hangouts, gmail, maps, youtube, play store, feature applications - backup, file manager, weather, music, contacts import, face id (face unlock)	data
+smartphone	attribute
+yes	data
+audio jack	attribute
+3.5 mm	data
+sensors	attribute
+accelerometer, proximity sensor, ambient light sensor, fingerprint sensor	data
+secondary camera	attribute
+8.0mp	data
+display colors	attribute
+16m	data
+usb tethering	attribute
+yes	data
+audio formats	attribute
+mp3, mp4, 4gp, ogg, amr, aac, flac, wav, midi	data
+usb connectivity	attribute
+yes	data
+display type	attribute
+gff	data
+micro usb port	attribute
+yes	data
+browse type	attribute
+smartphones	data
+sms	attribute
+yes	data
+secondary camera features	attribute
+fixed focus lens, photo: up to 3264x2448p, video: up to 1920x1080p	data
+primary camera	attribute
+13mp + 2mp	data
+secondary camera available	attribute
+yes	data
+bluetooth version	attribute
+4.2	data
+expandable storage	attribute
+256 gb	data
+processor core	attribute
+octa core	data
+sim size	attribute
+nano sim (6-pin sim)	data
+color	attribute
+gold	data
+in the box	attribute
+handset, charger, usb cable, quick start guide, eject tool, battery protect film, tp protect film, warranty card	data
+_id	attribute
+5bb8faf46b7a305730dcbd7c	data
+sim type	attribute
+dual sim	data
+3g speed	attribute
+hspa+	data
+flash	attribute
+rear flash	data
+p91	model
+height	attribute
+144.7 mm	data
+ram	attribute
+1 gb	data
+primary camera available	attribute
+yes	data
+hybrid sim slot	attribute
+no	data
+supported memory card type	attribute
+microsd	data
+video formats	attribute
+h.263, h.264, mpeg4	data
+internal storage	attribute
+16 gb	data
+supported networks	attribute
+4g volte, 4g lte, gsm, umts	data
+touchscreen	attribute
+yes	data
+wi-fi	attribute
+yes	data
+depth	attribute
+10.1 mm	data
+memory card slot type	attribute
+dedicated slot	data
+otg compatible	attribute
+yes	data
+removable battery	attribute
+yes	data
+network type	attribute
+4g volte, 3g, 2g	data
+width	attribute
+72.4 mm	data
+primary camera features	attribute
+ppi - 3264 x 2448 pixels, format - jpg, panaroma, mode - beaut/hdr, auto focus, cdaf, 4p lens, f/2.0, 1.12 micrometer x 1.12 micrometer, 4x digital zoom, 78degree fov, 32.55 cra (degree), video recording: format mp4, 720p, 30fps	data
+primary clock speed	attribute
+1.1 ghz	data
+sound enhancements	attribute
+single speaker	data
+processor type	attribute
+mt6737m	data
+internet connectivity	attribute
+4g, 3g, wi-fi	data
+model number	attribute
+p91	data
+resolution	attribute
+480 x 854 pixels	data
+other display features	attribute
+display protection - agc ii, brightness - 380 nits, capacitive display	data
+weight	attribute
+161 g	data
+gprs	attribute
+yes	data
+display size	attribute
+12.7 cm (5 inch)	data
+map support	attribute
+google maps	data
+gps support	attribute
+yes	data
+user memory	attribute
+10.08	data
+operating system	attribute
+android nougat 7	data
+operating frequency	attribute
+gsm - 850/900/1800/1900, umts - 900/2100, lte fdd: 1/3/5 tdd:40	data
+audio formats	attribute
+aac, aac+, aac+ enhanced, ogg vorbis, wav, mp3, midi	data
+warranty summary	attribute
+brand warranty of 1 year available for mobile and 6 months for accessories	data
+wi-fi version	attribute
+802.11 b/g/n	data
+bluetooth support	attribute
+yes	data
+usb connectivity	attribute
+yes	data
+other features	attribute
+wi-fi direct, supported frequency band 2.4 ghz	data
+smartphone	attribute
+yes	data
+audio jack	attribute
+3.5mm	data
+battery capacity	attribute
+2500 mah	data
+sensors	attribute
+accelerometer, proximity sensor, ambient light sensor	data
+secondary camera	attribute
+5mp	data
+resolution type	attribute
+fwvga	data
+3g	attribute
+yes	data
+fm radio	attribute
+yes	data
+gpu	attribute
+arm mali-t720 mp1 at 550mhz	data
+display type	attribute
+ips	data
+browse type	attribute
+smartphones	data
+secondary camera features	attribute
+ppi - 2592 x 1944 pixels, format - jpg, panaroma, mode - beaut/hdr, fixed focus, cdaf, 3p lens, f/2.4, 1.12 micrometer x 1.12 micrometer, 4x digital zoom, 82degree fov, 30.1 cra (degree), video recording: format mp4, 720p, 30fps	data
+primary camera	attribute
+8mp	data
+secondary camera available	attribute
+yes	data
+bluetooth version	attribute
+4.0	data
+expandable storage	attribute
+64 gb	data
+processor core	attribute
+quad core	data
+sim size	attribute
+micro sim and micro sim	data
+color	attribute
+gold	data
+in the box	attribute
+handset, battery, charger, usb cable, protective screen guard, quick start guide, earphones, warranty card	data
+_id	attribute
+5bb8faf56b7a305730dcbd7d	data
+sim type	attribute
+dual sim	data
+flash	attribute
+rear and front flash	data
+redmi note 5 pro	model
+weight	attribute
+181 g	data
+ram	attribute
+4 gb	data
+primary camera available	attribute
+yes	data
+hybrid sim slot	attribute
+yes	data
+supported memory card type	attribute
+microsd	data
+dual camera lens	attribute
+primary camera	data
+internal storage	attribute
+64 gb	data
+supported networks	attribute
+4g volte, umts, gsm, 4g lte, wcdma	data
+touchscreen	attribute
+yes	data
+wi-fi	attribute
+yes	data
+depth	attribute
+8.05 mm	data
+memory card slot type	attribute
+hybrid slot	data
+otg compatible	attribute
+yes	data
+network type	attribute
+4g volte, 4g, 3g	data
+graphics ppi	attribute
+403 ppi	data
+width	attribute
+75.35 mm	data
+primary camera features	attribute
+primary sensor - f/2.2, 1.25 microns pixel size, 5p lens, secondary sensor - f/2.0, 1.12 microns pixel size, 4p lens, pdaf	data
+primary clock speed	attribute
+1.8 ghz	data
+sound enhancements	attribute
+speaker - single (bottom opening), microphones - 2 (for noise cancellation)	data
+processor type	attribute
+qualcomm snapdragon 636	data
+internet connectivity	attribute
+4g, 3g, wi-fi	data
+model number	attribute
+mzb6079in / mzb6087in	data
+resolution	attribute
+2160 x 1080 pixels	data
+other display features	attribute
+contrast ratio: 1000:1 (min), 2.5d glass, corning gorilla glass	data
+map support	attribute
+google maps	data
+display size	attribute
+15.21 cm (5.99 inch)	data
+gps support	attribute
+yes	data
+height	attribute
+158.58 mm	data
+operating system	attribute
+android nougat 7.1.2	data
+operating frequency	attribute
+gsm - b2, b3, b5, b8, wcdma - b1, b2, b5, b8, 4g lte tdd - b40, b41 (2535 - 2655 mhz), lte fdd - b1, b3, b5	data
+warranty summary	attribute
+brand warranty of 1 year available for mobile and 6 months for accessories	data
+wi-fi version	attribute
+802.11 a/b/g/n/ac	data
+bluetooth support	attribute
+yes	data
+usb connectivity	attribute
+yes	data
+other features	attribute
+14 nm architecture processor, internal memory - emmc v5.1, body - metal back, ir blaster, charger - 5 v x 2 a	data
+smartphone	attribute
+yes	data
+audio jack	attribute
+3.5 mm	data
+battery capacity	attribute
+4000 mah	data
+sensors	attribute
+fingerprint scanner, ambient light sensor, proximity sensor, e compass, accelerometer, hall sensor, gyroscope	data
+secondary camera	attribute
+20mp	data
+resolution type	attribute
+full hd+	data
+3g	attribute
+yes	data
+gpu	attribute
+adreno 509	data
+display type	attribute
+ips (in-cell)	data
+micro usb port	attribute
+yes	data
+browse type	attribute
+smartphones	data
+secondary camera features	attribute
+aperture - f/2.2, 1.0 microns pixel size	data
+primary camera	attribute
+12mp + 5mp	data
+secondary camera available	attribute
+yes	data
+bluetooth version	attribute
+5	data
+expandable storage	attribute
+128 gb	data
+processor core	attribute
+octa core	data
+sim size	attribute
+nano sim and nano sim	data
+color	attribute
+black	data
+in the box	attribute
+handset, power adapter, usb data cable, ultra thin case, warranty card, getting started guide, pin	data
+_id	attribute
+5bb8faf86b7a305730dcbd7e	data
+sim type	attribute
+dual sim	data
+flash	attribute
+rear and front flash	data
+redmi note 5 pro	model
+weight	attribute
+181 g	data
+ram	attribute
+4 gb	data
+primary camera available	attribute
+yes	data
+hybrid sim slot	attribute
+yes	data
+supported memory card type	attribute
+microsd	data
+dual camera lens	attribute
+primary camera	data
+internal storage	attribute
+64 gb	data
+supported networks	attribute
+4g volte, umts, gsm, 4g lte, wcdma	data
+touchscreen	attribute
+yes	data
+wi-fi	attribute
+yes	data
+depth	attribute
+8.05 mm	data
+memory card slot type	attribute
+hybrid slot	data
+otg compatible	attribute
+yes	data
+network type	attribute
+4g volte, 4g, 3g	data
+graphics ppi	attribute
+403 ppi	data
+width	attribute
+75.35 mm	data
+primary camera features	attribute
+primary sensor - f/2.2, 1.25 microns pixel size, 5p lens, secondary sensor - f/2.0, 1.12 microns pixel size, 4p lens, pdaf	data
+primary clock speed	attribute
+1.8 ghz	data
+sound enhancements	attribute
+speaker - single (bottom opening), microphones - 2 (for noise cancellation)	data
+processor type	attribute
+qualcomm snapdragon 636	data
+internet connectivity	attribute
+4g, 3g, wi-fi	data
+model number	attribute
+mzb6634in	data
+resolution	attribute
+2160 x 1080 pixels	data
+other display features	attribute
+contrast ratio: 1000:1 (min), 2.5d glass, corning gorilla glass	data
+map support	attribute
+google maps	data
+display size	attribute
+15.21 cm (5.99 inch)	data
+gps support	attribute
+yes	data
+height	attribute
+158.58 mm	data
+operating system	attribute
+android nougat 7.1.2	data
+operating frequency	attribute
+gsm - b2, b3, b5, b8, wcdma - b1, b2, b5, b8, 4g lte tdd - b40, b41 (2535 - 2655 mhz), lte fdd - b1, b3, b5	data
+warranty summary	attribute
+brand warranty of 1 year available for mobile and 6 months for accessories	data
+wi-fi version	attribute
+802.11 a/b/g/n/ac	data
+bluetooth support	attribute
+yes	data
+usb connectivity	attribute
+yes	data
+other features	attribute
+14 nm architecture processor, internal memory - emmc v5.1, body - metal back, ir blaster, charger - 5 v x 2 a	data
+smartphone	attribute
+yes	data
+audio jack	attribute
+3.5 mm	data
+battery capacity	attribute
+4000 mah	data
+sensors	attribute
+fingerprint scanner, ambient light sensor, proximity sensor, e compass, accelerometer, hall sensor, gyroscope	data
+secondary camera	attribute
+20mp	data
+resolution type	attribute
+full hd+	data
+3g	attribute
+yes	data
+gpu	attribute
+adreno 509	data
+display type	attribute
+ips (in-cell)	data
+micro usb port	attribute
+yes	data
+browse type	attribute
+smartphones	data
+secondary camera features	attribute
+aperture - f/2.2, 1.0 microns pixel size	data
+primary camera	attribute
+12mp + 5mp	data
+secondary camera available	attribute
+yes	data
+bluetooth version	attribute
+5	data
+expandable storage	attribute
+128 gb	data
+processor core	attribute
+octa core	data
+sim size	attribute
+nano sim and nano sim	data
+color	attribute
+red	data
+in the box	attribute
+handset, power adapter, usb data cable, ultra thin case, warranty card, getting started guide, pin	data
+_id	attribute
+5bb8fafa6b7a305730dcbd7f	data
+sim type	attribute
+dual sim	data
+3g speed	attribute
+hspa+	data
+flash	attribute
+rear color correlated temperature (cct) dual led flash and front single flash	data
+moto one power	model
+height	attribute
+156 mm	data
+usb connectivity	attribute
+yes	data
+ram	attribute
+4 gb	data
+primary camera available	attribute
+yes	data
+supported memory card type	attribute
+microsd	data
+dual camera lens	attribute
+primary camera	data
+internal storage	attribute
+64 gb	data
+supported networks	attribute
+4g lte, umts, gsm	data
+touchscreen	attribute
+yes	data
+wi-fi	attribute
+yes	data
+depth	attribute
+8.98 mm	data
+memory card slot type	attribute
+dedicated slot	data
+upgradable operating system	attribute
+android p	data
+quick charging	attribute
+yes	data
+frame rate	attribute
+uhd at 30fps, fhd at 30fps, fhd at 60fps, vga at 30 fps	data
+otg compatible	attribute
+yes	data
+removable battery	attribute
+no	data
+network type	attribute
+4g, 3g, 2g	data
+width	attribute
+76 mm	data
+battery capacity	attribute
+5000 mah	data
+primary clock speed	attribute
+1.8 ghz	data
+sound enhancements	attribute
+dolby audio, bottom-ported speaker, 2 mics	data
+processor type	attribute
+qualcomm snapdragon 636	data
+internet connectivity	attribute
+4g, 3g, wi-fi, edge	data
+hybrid sim slot	attribute
+no	data
+resolution	attribute
+1080 x 2246 pixels	data
+other display features	attribute
+corning gorilla glass	data
+weight	attribute
+205 g	data
+map support	attribute
+google maps	data
+display size	attribute
+15.75 cm (6.2 inch)	data
+gps support	attribute
+yes	data
+sensors	attribute
+fingerprint reader, proximity sensor, accelerometer, ambient light sensor, magnetometer, gyroscope, e-compass	data
+operating system	attribute
+android oreo 8.1	data
+primary camera features	attribute
+16mp - pdaf (f1.8, 1.12 micrometer), 5mp - f2.2, 1.0 micrometer	data
+warranty summary	attribute
+brand warranty of 1 year available for mobile and 6 months for accessories	data
+wi-fi version	attribute
+802.11a/b/g/n/ac (2.4 ghz + 5 ghz)	data
+bluetooth support	attribute
+yes	data
+wi-fi hotspot	attribute
+yes	data
+video recording resolution	attribute
+2160p	data
+other features	attribute
+15w turbopower for upto 6 hours of power in 15 minutes, 4g lte (cat 6), usb type-c port with turbo charge support, water protection - p2i	data
+smartphone	attribute
+yes	data
+video recording	attribute
+yes	data
+hd recording	attribute
+yes	data
+secondary camera	attribute
+12mp	data
+resolution type	attribute
+fhd+	data
+3g	attribute
+yes	data
+edge	attribute
+yes	data
+fm radio	attribute
+yes	data
+gpu	attribute
+430 mhz adreno 509	data
+display type	attribute
+ltps ips	data
+graphics ppi	attribute
+403 ppi	data
+browse type	attribute
+smartphones	data
+full hd recording	attribute
+yes	data
+primary camera	attribute
+16mp + 5mp	data
+secondary camera available	attribute
+yes	data
+bluetooth version	attribute
+5.0	data
+expandable storage	attribute
+256 gb	data
+processor core	attribute
+octa core	data
+secondary camera features	attribute
+f2.0, 1.25 micrometer	data
+sim size	attribute
+dual nano sim	data
+color	attribute
+black	data
+in the box	attribute
+handset, travel charger (15w), sim ejector tool, user manual	data
+_id	attribute
+5bb8fafb6b7a305730dcbd80	data
+sim type	attribute
+dual sim	data
+flash	attribute
+single-led flash and selfie toning flash	data
+7a	model
+secondary clock speed	attribute
+1.1 ghz	data
+weight	attribute
+150 g	data
+ram	attribute
+3 gb	data
+primary camera available	attribute
+yes	data
+hybrid sim slot	attribute
+no	data
+supported memory card type	attribute
+microsd	data
+video formats	attribute
+3gp, mp4, wmv, asf	data
+dual camera lens	attribute
+primary camera	data
+internal storage	attribute
+32 gb	data
+supported networks	attribute
+4g volte, umts, gsm, 4g lte, wcdma	data
+touchscreen	attribute
+yes	data
+wi-fi	attribute
+yes	data
+depth	attribute
+7.8 mm	data
+memory card slot type	attribute
+dedicated slot	data
+otg compatible	attribute
+yes	data
+network type	attribute
+4g, 4g volte, 2g, 3g	data
+graphics ppi	attribute
+283 ppi	data
+user interface	attribute
+emui 8.0	data
+battery capacity	attribute
+3000 mah	data
+primary clock speed	attribute
+1.4 ghz	data
+sound enhancements	attribute
+sws, double-microphone noise reduction	data
+processor type	attribute
+qualcomm snapdragon octa core	data
+internet connectivity	attribute
+4g, 3g, wi-fi	data
+model number	attribute
+v100r001 / aum-al20	data
+resolution	attribute
+1440 x 720 pixels	data
+other display features	attribute
+multiple-point touch-sensitive screen	data
+pre-installed browser	attribute
+google chrome	data
+map support	attribute
+google maps	data
+display size	attribute
+14.48 cm (5.7 inch)	data
+gps support	attribute
+yes	data
+height	attribute
+152.4 mm	data
+width	attribute
+73 mm	data
+operating system	attribute
+android oreo 8.0	data
+primary camera features	attribute
+pdaf, photo: up to 4160x3120p, video: up to 1920x1080p, panorama, watermark, hdr, bokeh mode	data
+mms	attribute
+yes	data
+warranty summary	attribute
+12 months on handset, 6 months on battery, 6 months on charger & 3 months on data cable	data
+wi-fi version	attribute
+802.11 b/g/n (2.4g)	data
+bluetooth support	attribute
+yes	data
+resolution type	attribute
+hd+	data
+wi-fi hotspot	attribute
+yes	data
+other features	attribute
+device control - physical power key, 0/hs20, status indicator, swiftkey input method, wcdma: amr-nb, gsm/gprs: fr/efr/hr/amr-nb, e-mail - pop3/imap/exchange, image file format: png, gif, jpg, bmp, webp, wbmp, hota online update, google mobile suite - google search & search by voice, hangouts, gmail, maps, youtube, play store, feature applications - backup, file manager, weather, music, contacts import, face id (face unlock)	data
+smartphone	attribute
+yes	data
+audio jack	attribute
+3.5 mm	data
+sensors	attribute
+accelerometer, proximity sensor, ambient light sensor, fingerprint sensor	data
+secondary camera	attribute
+8.0mp	data
+display colors	attribute
+16m	data
+usb tethering	attribute
+yes	data
+audio formats	attribute
+mp3, mp4, 4gp, ogg, amr, aac, flac, wav, midi	data
+usb connectivity	attribute
+yes	data
+display type	attribute
+gff	data
+micro usb port	attribute
+yes	data
+browse type	attribute
+smartphones	data
+sms	attribute
+yes	data
+secondary camera features	attribute
+fixed focus lens, photo: up to 3264x2448p, video: up to 1920x1080p	data
+primary camera	attribute
+13mp + 2mp	data
+secondary camera available	attribute
+yes	data
+bluetooth version	attribute
+4.2	data
+expandable storage	attribute
+256 gb	data
+processor core	attribute
+octa core	data
+sim size	attribute
+nano sim (6-pin sim)	data
+color	attribute
+blue	data
+in the box	attribute
+handset, charger, usb cable, quick start guide, eject tool, battery protect film, tp protect film, warranty card	data
+128gb	data

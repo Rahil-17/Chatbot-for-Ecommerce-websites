@@ -1,0 +1,354 @@
+Input device
+USB
+Webcam
+Digital cameras
+Memory card
+SD Card
+Memory stick
+Image
+LCD
+Flash memory
+12-key keyboard
+20-key keyboard
+2G
+3G
+3G Sim card
+3GP
+3GPP
+4G
+802.11
+A4 processor
+AAC
+Airplane mode
+Alphanumeric
+Analog
+Android
+Animoji
+API
+App
+App store
+Area code
+Asynchronous
+Attenuation
+Avatar
+Band
+Bandwidth
+Base station
+Baseband
+Battery
+Binary
+Bit
+Bits Per Second
+BlackBerry
+Block
+Bluetooth
+bps
+Broadband
+Broadcast
+Browser
+Byte
+Cache
+Calculator
+Calendar
+Camera
+Capacity
+Carrier
+CDMA
+Cell
+Cell phone
+Cell site
+Cell tower
+cHTML
+Circuit
+Clamshell
+Codec
+Contention
+Cortana
+CPU
+Crosstalk
+CSTN
+Dashboard
+Data plan
+Digital
+Digital zoom
+DoCoMo
+Download
+Dual-core processor
+DUN
+Duplex
+E-911
+E-mail
+Echo suppressor
+Emoji
+EVDO
+Extension
+Face ID
+FaceTime
+Fat finger
+FCC
+Feature phone
+Firmware
+Flash memory
+Flight mode
+FM radio
+Form factor
+FPS
+Full duplex
+GB
+Geotag
+GHz
+Google Play
+Google Play Store
+GPRS
+GPU
+GSM
+Half duplex
+Hamburger menu
+Hang up
+HDMI
+HDML
+Hertz
+HID
+Home screen
+Hot spot
+Hot swap
+Hot swapping
+HTML
+Hz
+IEEE
+IM
+IMAP
+IMEI
+Infrared
+Instagram
+Instant Messaging
+iOS
+iOS Store
+IP
+iPhone
+IrDA
+ITU
+Java
+KB
+Kbps
+Kies
+Kilobyte
+Land line
+Latency
+LBS
+LCD
+LED
+Li-Ion
+Li-polymer
+Line
+Linux
+Lithium Ion
+LTE
+Lyft
+mAH
+Mango
+Map
+MB
+Mbps
+Megabyte
+Megahertz
+Megapixel
+Memory card
+Memory card slot
+MHz
+MicroSD
+MicroSDHC
+MIDI
+MiniSD
+MMC
+MMS
+MNO
+Mobile
+Mobile Hotspot
+Mobile network operator
+Mobile phone
+Mobile Virtual Network Operator
+Moblog
+Modem
+Monochrome
+MP3
+MPEG
+MTA
+MVNO
+NFC
+NiCd
+Ni-Cad
+NiMH
+OEM
+OLED
+Operating system
+Optical zoom
+OS
+Packet
+PBX
+PC Card
+PCMCIA
+PDA
+Phablet
+Phone
+Phoneme
+PIN
+Pinch
+Pixel
+Pocket PC
+POP
+POP3
+Port
+POTS
+Processor
+Push
+Push notification
+QR Code
+QWERTY
+RAM
+Refurbished
+Resolution
+Ringback
+Ringtone
+Roam
+Roaming
+ROM
+RSA
+RSS
+Safe Mode
+SD
+SD Card
+SDHC
+SDHC Card
+SDK
+Service provider
+Shared memory
+SIM
+SIM card
+SIM lock
+Siri
+Slamming
+Slide
+Smartphone
+SMS
+SMTP
+STN
+Streaming video
+Stylus
+SVGA
+Swipe
+Symbian OS
+Synchronous
+Tally
+TCP/IP
+TDD
+Telephone
+Terminal
+Tethering
+Text message
+Text message code
+TFT
+Throttle
+Touch screen
+Tower
+Trackball
+Transceiver
+TransFlash
+TTY
+UBER
+UI
+Unicast
+Unlocked cell phone
+Uplink
+Upload
+UPnP
+URL
+USB
+User interface
+VGA
+Video capture
+Voicemail
+VoIP
+WAN
+WAP
+Whatsapp
+Wi-Fi
+Wi-Fi Hotspot
+Wideband Code Division Multiple Access
+Widget
+WiMAX
+Windows CE
+Windows Mobile
+Windows Phone
+Wireless
+Wireless Hotspot
+WLAN
+WMA
+WML
+WMV
+XHTML
+XML
+XScale
+Xiaomi
+redmi
+note
+4s
+pro
+xs
+samsung
+snapdragon
+wireless router
+network
+telephone
+smart phone
+cellular
+phone
+cellphone
+mobile phone
+phones
+cellular phone
+gsm
+cell
+touchscreen mobile
+snapdragon
+intel
+gigahertz
+cpu
+microprocessor
+central processing unit
+ghz
+c.p.u.
+hertz
+iOS
+x86
+chip
+dual-core
+octa-core
+freq
+frequency
+amd
+1080p
+pixel density
+display
+resolution
+screen resolution
+touch screen
+scroll
+16:9
+display device
+device display
+graphic
+widescreen
+screenshot
+high-resolution
+storage
+ROM
+rom
+internal memory
+space
+internal space
+capacity
+memory
+under
+less
+best
