@@ -1,6 +1,8 @@
 from nltk.stem import WordNetLemmatizer
 #from autocorrect import spell
-
+print("==========downloading nltk wordnet==============")
+downloading nltk wordnet
+print("================================================")
 wordnet_lemmatizer = WordNetLemmatizer()
 
 stopwords = [ "a", "about", "after", "again", "against", "all", "am", "an", "and", "any", "are", "as", "at",
